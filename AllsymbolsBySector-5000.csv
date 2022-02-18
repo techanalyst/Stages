@@ -1,0 +1,1050 @@
+Symbol,Name,Sector,Industry Name,Ind Group Rank,Exchange,Current Price,Price % Chg,Price $ Chg,Volume (1000s),Vol % Chg vs 50-Day,EPS Rating,RS Rating,Ind Group RS,SMR Rating,A/D Rating,Comp Rating
+A,Agilent Technologies Inc,MEDICAL,Medical-Research Eqp/Svc,172,NYSE,144.34,2.3,3.26,1035,-10.1,91,60,D-,A,C,75
+AVTR,Avantor Inc,MEDICAL,Medical-Research Eqp/Svc,172,NYSE,38.41,1,0.4,3478,35.5,97,84,D-,A,B+,94
+BEAT,Heartbeam Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,2.07,-5.1,-0.11,94,-68.1,2,6,D-,-,D,5
+BIO,Bio Rad Labs Inc Cl A,MEDICAL,Medical-Research Eqp/Svc,172,NYSE,623.24,2.2,13.36,147,48.2,96,32,D-,B,E,59
+BIOC,Biocept Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,2.75,-4.8,-0.14,114,-49.9,58,16,D-,D,D-,30
+CNTA,Centessa Pharma Ads,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,9.59,0.6,0.06,92,-44,8,13,D-,-,D-,7
+CRDF,Cardiff Oncology Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,3.37,-4.8,-0.17,1074,55.1,38,8,D-,E,D,11
+CRL,Charles River Labs Intl,MEDICAL,Medical-Research Eqp/Svc,172,NYSE,345.42,3,9.93,317,16.6,92,37,D-,A,D+,68
+CSBR,Champions Oncology Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,7.82,-2.2,-0.17,2,-63.8,42,21,D-,C,D-,36
+CTKB,Cytek Biosciences Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,14.43,-0.3,-0.04,169,-13.5,10,16,D-,B,B-,28
+CTLT,Catalent Inc,MEDICAL,Medical-Research Eqp/Svc,172,NYSE,106.68,0.1,0.11,1092,34.2,95,30,D-,A,B-,69
+DNAY,Codex Dna Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,7.43,0.7,0.05,97,-83.1,1,11,D-,-,D-,4
+ENZ,Enzo Biochem Inc,MEDICAL,Medical-Research Eqp/Svc,172,NYSE,3.36,1.2,0.04,72,-36.3,30,77,D-,B,B,57
+FLGT,Fulgent Genetics Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,64.86,-0.7,-0.48,322,-29.7,73,19,D-,A,D-,46
+GHSI,Guardion Health Sciences,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,0.53,-4,-0.02,96,-66.5,53,2,D-,D,E,15
+HTGM,H T G Molecular Diagno,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,2.88,-3.7,-0.11,70,22.5,44,10,D-,E,D-,20
+ICLR,ICON plc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,276,2.8,7.54,363,-14.1,90,87,D-,A,C-,91
+IINN,Inspira Technologies Oxy,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,3.12,-0.6,-0.02,3230,-51.7,5,21,D-,-,B-,13
+ILMN,Illumina Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,356.95,0.1,0.5,448,-38.9,91,27,D-,A,C-,61
+IQV,Iqvia Holdings Inc,MEDICAL,Medical-Research Eqp/Svc,172,NYSE,255.15,3.3,8.05,712,21.5,94,81,D-,A,C+,88
+ISPC,Ispecimen Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,4.47,-7.8,-0.38,213,-97.1,7,17,D-,-,E,3
+MASS,908 Devices Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,15.89,-2.5,-0.41,189,-16.2,4,4,D-,E,C+,7
+MEDP,Medpace Holdings Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,179.11,1.7,3.04,313,122.5,96,52,D-,A,C-,76
+MXCT,Maxcyte Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,6.21,-4.6,-0.3,432,-14.6,22,7,D-,E,C+,21
+MYGN,Myriad Genetics,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,25.58,-1.5,-0.38,328,8.4,59,25,D-,D,B-,42
+NOTV,Inotiv Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,33.1,7.6,2.34,205,19.3,69,91,D-,A,D-,77
+NSTG,NanoString Technologies,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,36.2,-0.2,-0.09,429,11.3,25,14,D-,E,D+,19
+NTRA,Natera Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,71.09,-2.4,-1.73,472,-40.1,2,15,D-,D,E,10
+OCDX,Ortho Clinical Diag Hldg,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,17.53,0.4,0.08,1125,-13.1,69,37,D-,-,B-,56
+PKI,Perkinelmer Inc,MEDICAL,Medical-Research Eqp/Svc,172,NYSE,185.11,6.2,10.83,1602,109,91,85,D-,A,E,85
+RPID,Rapid Micro Biosyst Cl A,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,7.2,-2.8,-0.21,59,-51.8,6,2,D-,-,C,5
+SDGR,Schrodinger Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,28.07,-5.1,-1.51,700,1.6,5,6,D-,D,B,13
+SNCE,Science 37 Holdings Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,7.87,-1.6,-0.13,75,-40.2,2,22,D-,-,C,14
+SYNH,Syneos Health Cl A,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,92.25,2.1,1.89,359,8.5,84,79,D-,B,B-,81
+TECH,Bio-Techne Corp,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,419.77,4.5,18.2,362,119.7,85,32,D-,A,B-,66
+TKNO,Alpha Teknova Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,15.33,-2.9,-0.45,6,-89.8,8,16,D-,C,B-,23
+TLIS,Talis Biomedical Corp,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,2.83,-3.7,-0.11,61,-55.4,7,2,D-,-,C,1
+TMO,Thermo Fisher Scientific,MEDICAL,Medical-Research Eqp/Svc,172,NYSE,604.77,1.8,10.46,1513,40.5,85,84,D-,A,E,78
+TTOO,T2 Biosystems Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,0.39,-6.3,-0.03,788,-58.1,27,4,D-,-,D-,5
+VCYT,Veracyte Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,29.53,-5.5,-1.71,450,-13.6,22,14,D-,D,C+,23
+XGN,Exagen Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,8.84,-5.5,-0.52,15,-33.8,14,18,D-,E,B,20
+ZIVO,Zivo Bioscience Inc,MEDICAL,Medical-Research Eqp/Svc,172,NASDAQ,2.94,-0.3,-0.01,8,-79.8,27,22,D-,-,B,24
+AGTI,Agiliti Inc,MEDICAL,Medical-Services,157,NYSE,18.58,-2.5,-0.48,136,11.9,69,65,D,B,C+,74
+AKU,Akumin Inc,MEDICAL,Medical-Services,157,NASDAQ,1.35,-9.4,-0.14,62,-11.9,43,14,D,D,C-,28
+AMS,American Shared Hosp Svc,MEDICAL,Medical-Services,157,AMEX,2.27,-0.7,-0.02,4,-74.6,60,25,D,E,B-,30
+ANPC,Anpac Bio-Med Sci Cl A,MEDICAL,Medical-Services,157,NASDAQ,0.84,2.5,0.02,148,-47.6,25,1,D,-,B-,10
+ATIP,Ati Physical Therapy ClA,MEDICAL,Medical-Services,157,NYSE,3.08,-3.8,-0.12,356,-73.2,8,18,D,E,C+,11
+ATOS,Atossa Therapeutics,MEDICAL,Medical-Services,157,NASDAQ,1.31,-5.4,-0.08,1865,-26.4,51,9,D,-,D+,20
+AUGX,Augmedix Inc,MEDICAL,Medical-Services,157,NASDAQ,2.46,-1.8,-0.05,23,-62.9,25,9,D,-,D-,12
+AVCO,Avalon Globocare Corp,MEDICAL,Medical-Services,157,NASDAQ,0.78,-3.8,-0.03,69,-45.7,40,20,D,E,B+,33
+BDSX,Biodesix Inc,MEDICAL,Medical-Services,157,NASDAQ,3.72,-6.8,-0.27,38,-57.5,11,4,D,-,B,3
+BNR,Burning Rock Biotech Ads,MEDICAL,Medical-Services,157,NASDAQ,8.82,-4.4,-0.41,81,-72.1,7,6,D,E,E,2
+CCEL,Cryo Cell International,MEDICAL,Medical-Services,157,NASDAQ,9.08,-3.4,-0.32,10,65.1,34,23,D,-,D,21
+CO,Global Cord Blood,MEDICAL,Medical-Services,157,NYSE,4.14,-0.6,-0.03,61,21.8,80,44,D,A,B,67
+CSTL,Castle Biosciences Inc,MEDICAL,Medical-Services,157,NASDAQ,41.38,-2.5,-1.07,127,-36.8,2,14,D,D,B,20
+DCGO,Docgo Inc,MEDICAL,Medical-Services,157,NASDAQ,7.15,-5,-0.38,662,12,39,20,D,-,B,32
+DGX,Quest Diagnostics Inc,MEDICAL,Medical-Services,157,NYSE,135.72,0.4,0.48,1966,139.1,83,52,D,A,E,65
+GH,Guardant Health Inc,MEDICAL,Medical-Services,157,NASDAQ,70.44,-3.5,-2.53,793,-17.7,12,11,D,D,C+,18
+INFU,Infusystem Holdings Inc,MEDICAL,Medical-Services,157,AMEX,14.96,-0.6,-0.09,44,-14.5,9,26,D,B,C,28
+INNV,Innovage Holding Corp,MEDICAL,Medical-Services,157,NASDAQ,5.13,-1,-0.05,216,-71.9,43,7,D,D,B-,23
+INVO,INVO Bioscience Inc,MEDICAL,Medical-Services,157,NASDAQ,3.36,0.6,0.02,55,29.9,39,35,D,E,C,25
+IRTC,Irhythm Technologies Inc,MEDICAL,Medical-Services,157,NASDAQ,125.79,-0.2,-0.19,149,-55.4,8,99,D,D,A-,56
+JYNT,Joint Corp,MEDICAL,Medical-Services,157,NASDAQ,52.13,-4.6,-2.53,63,-49.8,60,33,D,A,B,55
+LH,Laboratory Corp Of Amer,MEDICAL,Medical-Services,157,NYSE,274.24,0.5,1.28,484,-19.4,83,65,D,B,C,71
+MDVL,Medavail Holdings Inc,MEDICAL,Medical-Services,157,NASDAQ,1.5,-7.4,-0.12,60,-65.9,50,2,D,-,C,12
+ME,23andMe Holding Cl A,MEDICAL,Medical-Services,157,NASDAQ,4.67,-4.9,-0.24,2733,7.3,49,6,D,E,D-,18
+NEO,NeoGenomics Inc,MEDICAL,Medical-Services,157,NASDAQ,21.9,-5.2,-1.19,406,-42.1,27,7,D,C,E,10
+NVOS,Novo Integrated Sciences,MEDICAL,Medical-Services,157,NASDAQ,1.37,3.8,0.05,15,-77.4,12,14,D,D,E,8
+NVTA,Invitae Corporation,MEDICAL,Medical-Services,157,NYSE,10.96,-6,-0.7,4225,8.7,19,3,D,D,E,6
+OPCH,Option Care Health Inc,MEDICAL,Medical-Services,157,NASDAQ,23.61,-0.4,-0.09,374,-31.8,69,81,D,D,B,73
+OPGN,Opgen Inc,MEDICAL,Medical-Services,157,NASDAQ,0.92,-3.3,-0.03,118,-84.5,45,6,D,E,D-,17
+OTRK,Ontrak Inc,MEDICAL,Medical-Services,157,NASDAQ,3.15,-10.5,-0.37,283,-36.4,19,1,D,D,D,3
+PMD,Psychemedics Corp,MEDICAL,Medical-Services,157,NASDAQ,7,-2.1,-0.15,28,58.1,69,48,D,E,D+,57
+PROG,Progenity Inc,MEDICAL,Medical-Services,157,NASDAQ,1.5,-5.1,-0.08,6032,-70,38,8,D,-,A-,26
+PRPO,Precipio Inc,MEDICAL,Medical-Services,157,NASDAQ,1.28,-2.3,-0.03,75,-80.4,42,5,D,D,C-,20
+PSNL,Personalis Inc,MEDICAL,Medical-Services,157,NASDAQ,11.71,-0.4,-0.05,318,-18.7,14,9,D,E,D-,8
+RNLX,Renalytix plc Ads,MEDICAL,Medical-Services,157,NASDAQ,13.31,-0.6,-0.09,53,-50.6,7,9,D,E,D-,8
+SERA,Sera Prognostics Cl A,MEDICAL,Medical-Services,157,NASDAQ,7.05,1.7,0.12,27,-17.5,6,14,D,E,D+,16
+SHC,Sotera Health Co,MEDICAL,Medical-Services,157,NASDAQ,21.93,2.1,0.46,312,-20.5,98,28,D,-,B-,61
+SQL,SeqLL Inc,MEDICAL,Medical-Services,157,NASDAQ,1.64,0,0,26,-84.7,2,4,D,-,D,1
+STVN,Stevanato Group S P A,MEDICAL,Medical-Services,157,NYSE,18.45,3.3,0.59,220,-19.1,54,25,D,A,D-,49
+SY,So-Young Intl CL A Ads,MEDICAL,Medical-Services,157,NASDAQ,2.46,0,0,262,-57.2,91,4,D,B,E,31
+TALK,Talkspace Inc Cl A,MEDICAL,Medical-Services,157,NASDAQ,1.47,-8.1,-0.13,494,-56.5,33,1,D,D,E,10
+TLMD,SOC Telemed Inc Cl A,MEDICAL,Medical-Services,157,NASDAQ,0.64,-9.2,-0.07,302,-46.1,46,1,D,-,E,9
+TVTY,Tivity Health,MEDICAL,Medical-Services,157,NASDAQ,24.98,-0.7,-0.18,93,-26.5,52,72,D,B,D,64
+VYNT,Vyant Bio Inc,MEDICAL,Medical-Services,157,NASDAQ,1.07,1.9,0.02,105,-2.5,49,3,D,D,E,10
+AVNS,Avanos Medical Inc,MEDICAL,Medical-Supplies,143,NYSE,29.59,-2,-0.61,254,2.1,92,25,D+,D,B-,52
+BDX,Becton Dickinson & Co,MEDICAL,Medical-Supplies,143,NYSE,256.29,1.2,3.06,1080,13.9,68,69,D+,A,C,70
+BMRA,Biomerica Inc,MEDICAL,Medical-Supplies,143,NASDAQ,4.07,-4,-0.17,54,-62.9,39,42,D+,D,D,35
+CVET,Covetrus Inc,MEDICAL,Medical-Supplies,143,NASDAQ,17.85,-1.7,-0.3,418,-39.2,54,20,D+,C,C,29
+ELAN,Elanco Animal Health Inc,MEDICAL,Medical-Supplies,143,NYSE,25.47,-0.3,-0.07,2055,-16.4,74,24,D+,B,B,60
+HSIC,Henry Schein Inc,MEDICAL,Medical-Supplies,143,NASDAQ,76.5,0.7,0.55,503,-16.8,79,60,D+,B,B+,78
+IVC,Invacare Corp,MEDICAL,Medical-Supplies,143,NYSE,2.16,-5.3,-0.12,371,-52.1,16,3,D+,E,D,6
+MOTS,Motus Gi Holdings Inc,MEDICAL,Medical-Supplies,143,NASDAQ,0.36,-4.9,-0.02,228,-67.4,37,4,D+,E,C,19
+PDCO,Patterson Companies Inc,MEDICAL,Medical-Supplies,143,NASDAQ,28.49,0.3,0.09,249,-45.6,47,30,D+,B,C+,47
+RVP,Retractable Technologies,MEDICAL,Medical-Supplies,143,AMEX,5.21,-3.5,-0.19,82,-49,36,8,D+,B,E,28
+SDC,Smiledirectclub Cl A,MEDICAL,Medical-Supplies,143,NASDAQ,2.66,-8.6,-0.25,6095,-23.9,10,4,D+,E,B-,6
+WST,West Pharmaceutical Svcs,MEDICAL,Medical-Supplies,143,NYSE,407.45,2.6,10.21,192,-29,98,81,D+,A,D+,92
+XRAY,Dentsply Sirona Inc,MEDICAL,Medical-Supplies,143,NASDAQ,53.62,1,0.51,835,-27.4,54,30,D+,B,D,53
+AIRS,Airsculpt Technologies,MEDICAL,Medical-Systems/Equip,176,NASDAQ,13.89,-3.7,-0.53,73,-62.2,69,39,D-,A,D,66
+AKYA,Akoya Biosciences Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,11.46,-3.4,-0.4,38,-66.8,6,18,D-,E,C+,16
+ARAY,Accuray Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,3.71,-1.2,-0.05,913,24.2,9,23,D-,D,B,28
+ASXC,Asensus Surgical Inc,MEDICAL,Medical-Systems/Equip,176,AMEX,0.84,-7.5,-0.07,2783,-9.3,46,5,D-,D,D+,18
+ATRC,Atricure Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,65.11,-1.3,-0.89,145,-28.9,9,32,D-,D,B,32
+AXNX,Axonics Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,49.39,-0.7,-0.35,337,-9.6,13,24,D-,D,C,27
+BFLY,Butterfly Network Cl A,MEDICAL,Medical-Systems/Equip,176,NYSE,5.81,-4.1,-0.25,1799,-34.6,53,8,D-,E,B,27
+BIOL,Biolase Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,0.4,0,0,826,-74,52,14,D-,E,B,30
+BRKR,Bruker Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,68.2,1.4,0.97,311,-54.4,90,39,D-,A,C,68
+BTCY,Biotricity Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,3.13,-2.8,-0.09,64,-80.3,4,44,D-,-,E,17
+BWAY,Brainsway Ltd Ads,MEDICAL,Medical-Systems/Equip,176,NASDAQ,7.93,-0.6,-0.05,30,32.1,7,39,D-,D,C,29
+CLGN,Collplant Biotech,MEDICAL,Medical-Systems/Equip,176,NASDAQ,9.48,-7.8,-0.8,53,-20.9,11,11,D-,D,E,2
+CLPT,Clearpoint Neuro Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,8.68,-4.1,-0.37,226,-3.4,5,7,D-,E,D-,5
+CUTR,Cutera Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,35.76,-1.3,-0.49,79,-23.5,69,60,D-,C,B,60
+CVRX,Cvrx Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,8.27,1.2,0.1,84,29.7,1,3,D-,D,E,6
+DXR,Daxor Corp,MEDICAL,Medical-Systems/Equip,176,AMEX,10.88,0,0,0,0,8,77,D-,E,C+,32
+DYNT,Dynatronics Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,0.8,0.5,0,124,-2,69,14,D-,D,E,24
+EDAP,E D A P Tms Sa Adr,MEDICAL,Medical-Systems/Equip,176,NASDAQ,7.46,5.4,0.38,84,-6.4,21,85,D-,D,A,51
+ELMD,Electromed Inc,MEDICAL,Medical-Systems/Equip,176,AMEX,12.81,-0.5,-0.06,7,-57,49,93,D-,C,B-,71
+FEMY,Femasys Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,2.99,0.7,0.02,19,-89,19,3,D-,E,B,8
+FLDM,Fluidigm Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,3.4,1.8,0.06,987,28.4,8,13,D-,E,B,13
+FONR,Fonar Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,15.77,-1.4,-0.23,6,-65.9,62,42,D-,C,B,58
+GMVD,G Medical Innovations Hd,MEDICAL,Medical-Systems/Equip,176,NASDAQ,4.32,-8.1,-0.38,1168,-48.6,12,99,D-,-,A-,56
+HAE,Haemonetics Corp,MEDICAL,Medical-Systems/Equip,176,NYSE,46.74,-4.3,-2.1,262,-18.8,65,16,D-,B,C,34
+HOLX,Hologic Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,72.3,2.5,1.77,1412,28.7,82,52,D-,B,D,63
+HYPR,Hyperfine Inc Cl A,MEDICAL,Medical-Systems/Equip,176,NASDAQ,4.29,-14.1,-0.71,238,-9.7,8,8,D-,-,E,1
+ICAD,Icad Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,5.5,-2,-0.11,81,-64,21,5,D-,E,C+,15
+ICCM,Icecure Medical Ltd,MEDICAL,Medical-Systems/Equip,176,NASDAQ,2.78,7.3,0.19,156,-37,69,1,D-,E,C-,21
+IDXX,Idexx Laboratories Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,536.39,4.5,22.88,785,172,92,30,D-,A,D-,63
+INMD,InMode Ltd,MEDICAL,Medical-Systems/Equip,176,NASDAQ,48.94,-2.5,-1.25,1160,-26.7,99,39,D-,A,D,70
+IONM,Assure Holdings Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,4.37,0.7,0.03,0,-80.2,61,17,D-,D,D-,32
+IRIX,Iridex Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,5.48,0.5,0.03,24,-33.6,36,22,D-,D,D-,28
+IRMD,Iradimed Corporation,MEDICAL,Medical-Systems/Equip,176,NASDAQ,39.39,-1.5,-0.62,52,-21.9,67,95,D-,B,C+,79
+ISRG,Intuitive Surgical Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,292.67,2.2,6.16,1819,30,78,37,D-,A,D-,60
+LMDX,Lumiradx Limited,MEDICAL,Medical-Systems/Equip,176,NASDAQ,8.87,1.7,0.15,20,-64.3,33,37,D-,D,C-,38
+LNSR,Lensar Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,5.9,-2.4,-0.15,1,-87.9,14,25,D-,E,E,16
+MASI,Masimo Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,224.57,1.1,2.47,197,-11.1,82,26,D-,B,C-,53
+MDGS,Medigus Ltd Ads,MEDICAL,Medical-Systems/Equip,176,NASDAQ,1.06,-1.9,-0.02,97,-56.7,52,14,D-,D,C+,29
+MLAB,Mesa Laboratories,MEDICAL,Medical-Systems/Equip,176,NASDAQ,281.17,-0.3,-0.87,16,5.2,60,60,D-,D,B-,68
+MYO,Myomo Inc,MEDICAL,Medical-Systems/Equip,176,AMEX,7.73,0.9,0.07,17,-52.2,43,22,D-,D,E,22
+NDRA,Endra Life Sciences,MEDICAL,Medical-Systems/Equip,176,NASDAQ,0.57,-6.1,-0.04,226,-16.5,45,2,D-,-,E,10
+NNOX,Nano-X Imaging Ltd,MEDICAL,Medical-Systems/Equip,176,NASDAQ,10.57,-9.3,-1.08,513,-34.4,33,3,D-,-,E,5
+NTUS,Natus Medical Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,22.9,1.1,0.25,71,-13.3,68,30,D-,C,B-,57
+NVRO,Nevro Corp,MEDICAL,Medical-Systems/Equip,176,NYSE,63.88,-3.2,-2.09,230,-52.5,9,7,D-,E,C-,5
+NVST,Envista Holdings Corp,MEDICAL,Medical-Systems/Equip,176,NYSE,43.86,1,0.46,1089,21.7,59,81,D-,B,B-,73
+OM,Outset Medical Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,36.55,-3.7,-1.39,181,-43.7,34,19,D-,-,B-,28
+OMCL,Omnicell Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,153.24,0.9,1.31,133,-34.2,98,69,D-,B,E,80
+ONVO,Organovo Holdings Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,3.15,-3.4,-0.11,43,-27.8,43,5,D-,E,D-,13
+PACB,Pacific Biosciences Ca,MEDICAL,Medical-Systems/Equip,176,NASDAQ,11.4,-0.4,-0.05,6657,108.6,10,4,D-,D,C-,7
+PLSE,Pulse Biosciences Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,11.58,-7.8,-0.98,133,101.8,25,10,D-,-,D-,9
+PRCT,Procept Biorobotics Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,19.1,0.7,0.14,139,-19.8,18,6,D-,D,D+,14
+PROF,Profound Medical Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,9.33,-6.7,-0.67,22,-60.9,39,14,D-,B,B-,33
+RMED,Ra Medical Systems Inc,MEDICAL,Medical-Systems/Equip,176,AMEX,0.88,-4.7,-0.04,299,74.4,48,1,D-,E,E,3
+SGHT,Sight Sciences Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,14.97,2.4,0.35,169,-25.3,1,7,D-,-,C,6
+SIBN,Si-Bone Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,19.04,-3.9,-0.77,240,23.4,17,20,D-,E,C,18
+SLGC,Somalogic Inc Cl A,MEDICAL,Medical-Systems/Equip,176,NASDAQ,8.88,-1.9,-0.17,562,-24.1,6,18,D-,E,B-,21
+SONX,Sonendo Inc,MEDICAL,Medical-Systems/Equip,176,NYSE,6.41,-15.9,-1.21,139,-9,22,25,D-,E,B+,28
+SPNE,Seaspine Holdings Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,11.54,-3.4,-0.41,33,-58.6,13,18,D-,D,B,19
+SRTS,Sensus Healthcare Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,8.34,2.1,0.17,76,-71.7,60,99,D-,D,A-,80
+SSKN,Strata Skin Sciences Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,1.46,-0.7,-0.01,9,-75.8,54,31,D-,D,C-,36
+STE,Steris Plc,MEDICAL,Medical-Systems/Equip,176,NYSE,228.51,1.3,2.87,243,-8,92,77,D-,A,D+,87
+STRR,Star Equity Holdings Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,1.29,-5.8,-0.08,274,-30.4,7,7,D-,D,C-,9
+STXS,Stereotaxis Inc,MEDICAL,Medical-Systems/Equip,176,AMEX,5.32,-2.7,-0.15,109,-43.5,4,30,D-,D,B-,21
+SWAV,Shockwave Medical Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,153.37,-1.1,-1.66,272,-14.3,61,37,D-,D,B-,45
+THMO,Thermogenesis Holdings,MEDICAL,Medical-Systems/Equip,176,NASDAQ,0.88,0.8,0.01,17,-93.4,44,5,D-,E,D+,16
+TMCI,Treace Medical Concepts,MEDICAL,Medical-Systems/Equip,176,NASDAQ,19.24,3.6,0.66,224,9.1,2,19,D-,D,C+,18
+TMDI,Titan Medical Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,0.6,-4.6,-0.03,170,-67.7,14,3,D-,-,E,3
+UTRS,Minerva Surgical Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,4.58,1.6,0.07,23,-77.1,39,8,D-,-,B-,18
+VERO,Venus Concept Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,1.46,-7.6,-0.12,65,-79.9,42,25,D-,E,B-,32
+VIVE,Viveve Medical Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,1.05,-2.9,-0.03,60,-46.3,50,4,D-,E,E,11
+VRAY,Viewray Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,4.29,-1.4,-0.06,923,-13.3,28,19,D-,E,B,28
+VREX,Varex Imaging Corp,MEDICAL,Medical-Systems/Equip,176,NASDAQ,25.5,-0.6,-0.16,472,117.2,69,77,D-,C,D-,73
+WAT,Waters Corp,MEDICAL,Medical-Systems/Equip,176,NYSE,329.77,1.9,6.05,307,29.3,75,52,D-,A,C,66
+XAIR,Beyond Air Inc,MEDICAL,Medical-Systems/Equip,176,NASDAQ,7.21,-4.2,-0.32,146,-65.1,22,69,D-,E,D,33
+ABC,Amerisourcebergen Corp,MEDICAL,Medical-Whlsle Drg/Suppl,17,NYSE,136.19,-1.1,-1.47,1345,108.1,85,89,A,B,A,99
+CAH,Cardinal Health Inc,MEDICAL,Medical-Whlsle Drg/Suppl,17,NYSE,51.76,1,0.52,2539,20.8,46,44,A,C,C,65
+MCK,Mckesson Corp,MEDICAL,Medical-Whlsle Drg/Suppl,17,NYSE,259.86,1.1,2.94,938,46.7,90,95,A,C,B,97
+MEDS,Trxade Health Inc,MEDICAL,Medical-Whlsle Drg/Suppl,17,NASDAQ,2.08,-3.3,-0.07,2,-94.7,5,7,A,E,E,11
+OMI,Owens & Minor Inc,MEDICAL,Medical-Whlsle Drg/Suppl,17,NYSE,41.69,-0.8,-0.32,597,21.1,55,92,A,B,C,90
+PETQ,Petiq Inc Cl A,MEDICAL,Medical-Whlsle Drg/Suppl,17,NASDAQ,20.32,0,-0.01,128,-51.6,86,16,A,C,C,63
+VMD,Viemed Healthcare Inc,MEDICAL,Medical-Whlsle Drg/Suppl,17,NASDAQ,4.7,-0.2,-0.01,83,20.6,52,16,A,B,D,46
+PKOH,Park Ohio Holding Corp,METALS,Metal Prds-Distributor,180,NASDAQ,19.53,1.9,0.37,36,30.7,21,17,D-,D,B-,18
+RYI,Ryerson Holding Corp,METALS,Metal Prds-Distributor,180,NYSE,21.32,0.6,0.14,95,-13.4,74,91,D-,C,C,75
+ZEUS,Olympic Steel Inc,METALS,Metal Prds-Distributor,180,NASDAQ,22.76,1.8,0.4,44,-5.9,69,39,D-,C,D+,48
+ACH,Aluminum Cp Of China Adr,METALS,Metal Proc & Fabrication,117,NYSE,13.32,-1,-0.13,37,-68.2,34,84,C,C,C,64
+ARNC,Arconic Corporation,METALS,Metal Proc & Fabrication,117,NYSE,31.09,-1.6,-0.49,310,-34.3,62,65,C,C,B,70
+B,Barnes Group Inc,METALS,Metal Proc & Fabrication,117,NYSE,45.88,0.9,0.39,114,3.2,71,60,C,C,C,67
+BOOM,D M C Global Inc,METALS,Metal Proc & Fabrication,117,NASDAQ,38.86,-4.3,-1.76,74,9.1,31,32,C,D,B,42
+CENX,Century Aluminum Co,METALS,Metal Proc & Fabrication,117,NASDAQ,15.6,-1.4,-0.22,619,-27.1,33,92,C,D,B-,70
+CMC,Commercial Metals Co,METALS,Metal Proc & Fabrication,117,NYSE,35.63,2.7,0.93,682,-7.7,99,94,C,A,B+,98
+FRD,Friedman Inds Inc,METALS,Metal Proc & Fabrication,117,AMEX,9.68,-2.9,-0.29,11,-54.5,69,35,C,A,C-,68
+FSTR,L B Foster Company,METALS,Metal Proc & Fabrication,117,NASDAQ,15.5,-0.9,-0.14,10,-65,17,48,C,D,B+,42
+HAYN,Haynes Intl Inc,METALS,Metal Proc & Fabrication,117,NASDAQ,37.16,-0.5,-0.2,35,-5.4,69,89,C,D,D-,77
+HIHO,Highway Hldgs Ltd,METALS,Metal Proc & Fabrication,117,NASDAQ,3,2,0.06,27,16.4,47,23,C,D,C,36
+HSC,Harsco Corp,METALS,Metal Proc & Fabrication,117,NYSE,15.77,-1.1,-0.18,264,-1,83,44,C,C,B-,61
+IIIN,Insteel Industries Inc,METALS,Metal Proc & Fabrication,117,NYSE,39.92,0.2,0.08,83,3,79,91,C,A,B-,93
+KALU,Kaiser Aluminum Corp,METALS,Metal Proc & Fabrication,117,NASDAQ,94.6,-2.4,-2.3,113,52.4,67,35,C,B,B-,57
+MLI,Mueller Industries Inc,METALS,Metal Proc & Fabrication,117,NYSE,54.88,0.3,0.19,194,23.5,96,93,C,A,D+,92
+MMAT,Meta Materials Inc,METALS,Metal Proc & Fabrication,117,NASDAQ,1.75,-6.7,-0.13,5866,-1.2,2,6,C,D,C-,8
+MTRN,Materion Corp,METALS,Metal Proc & Fabrication,117,NYSE,83.11,-0.5,-0.43,43,6.9,94,84,C,C,B-,90
+NNBR,N N Inc,METALS,Metal Proc & Fabrication,117,NASDAQ,3.59,-6.3,-0.24,206,51.6,24,14,C,D,C,22
+NWPX,Northwest Pipe Company,METALS,Metal Proc & Fabrication,117,NASDAQ,29.72,0.6,0.17,24,-8.9,18,83,C,C,C+,56
+OFLX,Omega Flex Inc,METALS,Metal Proc & Fabrication,117,NASDAQ,143.27,1,1.37,18,113.9,86,37,C,A,B+,74
+ROCK,Gibraltar Industries Inc,METALS,Metal Proc & Fabrication,117,NASDAQ,54.08,-1.4,-0.75,154,63.3,69,18,C,B,B-,52
+ROLL,R B C Bearings Inc,METALS,Metal Proc & Fabrication,117,NASDAQ,174.94,-2.8,-4.96,92,1.1,55,28,C,C,D-,37
+RS,Reliance Steel & Aluminm,METALS,Metal Proc & Fabrication,117,NYSE,160.46,1.3,2,211,13.5,98,83,C,B,C,96
+SCHN,Schnitzer Steel Inds A,METALS,Metal Proc & Fabrication,117,NASDAQ,39.69,-0.3,-0.12,251,30.4,89,31,C,A,C-,64
+SGBX,Sg Blocks,METALS,Metal Proc & Fabrication,117,NASDAQ,1.95,-4.2,-0.09,115,-70.7,7,10,C,D,C+,20
+SYNL,Synalloy Corp Del,METALS,Metal Proc & Fabrication,117,NASDAQ,17.4,0.9,0.15,11,-79.6,69,99,C,D,B,88
+TKR,Timken Co,METALS,Metal Proc & Fabrication,117,NYSE,67.41,-1,-0.69,398,8.6,81,31,C,B,B,64
+VMI,Valmont Industries Inc,METALS,Metal Proc & Fabrication,117,NYSE,213.42,-1.2,-2.7,64,55.2,84,37,C,B,D+,70
+WOR,Worthington Industries,METALS,Metal Proc & Fabrication,117,NYSE,54.8,-0.4,-0.22,128,-13.6,89,42,C,A,D+,73
+AP,Ampco Pittsburgh Corp,METALS,Steel-Producers,118,NYSE,5.91,0.8,0.05,7,-76.5,28,48,C,C,B-,41
+ASTL,Algoma Steel Group Inc,METALS,Steel-Producers,118,NASDAQ,9.02,-3.4,-0.32,271,-41.8,33,35,C,-,D,33
+CLF,Cleveland-Cliffs Inc,METALS,Steel-Producers,118,NYSE,18.84,2.2,0.41,17161,-0.7,67,33,C,B,E,55
+GGB,Gerdau S A Adr,METALS,Steel-Producers,118,NYSE,5.49,0.3,0.02,7366,4.4,96,92,C,B,B,98
+HUDI,Huadi International Grp,METALS,Steel-Producers,118,NASDAQ,20.6,-1.2,-0.24,8,-97.4,13,99,C,C,A-,63
+MT,Arcelor Mittal,METALS,Steel-Producers,118,NYSE,31.84,1.1,0.35,2632,-38.2,69,79,C,C,D-,76
+MTL,Mechel Pao Ads,METALS,Steel-Producers,118,NYSE,3.08,2.3,0.07,96,-56.2,73,93,C,-,C-,69
+NUE,Nucor Corp,METALS,Steel-Producers,118,NYSE,112.33,4.5,4.87,3471,25,97,95,C,A,B,96
+PKX,P O S C O,METALS,Steel-Producers,118,NYSE,56.96,-0.2,-0.14,459,166.6,75,27,C,C,D+,55
+SID,Companhia Siderurgic Ads,METALS,Steel-Producers,118,NYSE,5.09,0.6,0.03,2198,-25.2,53,35,C,A,D+,60
+SIM,Grupo Simec Sab Cv Ads,METALS,Steel-Producers,118,AMEX,24.5,-3.4,-0.88,7,120.8,76,97,C,B,D,92
+STLD,Steel Dynamics Inc,METALS,Steel-Producers,118,NASDAQ,59.27,2.9,1.66,1622,5.3,98,83,C,A,D+,91
+TS,Tenaris Sa Adr,METALS,Steel-Producers,118,NYSE,25.74,-0.6,-0.16,2251,15.7,69,95,C,D,B,86
+TX,Ternium Sa Adr,METALS,Steel-Producers,118,NYSE,42.13,1.8,0.75,608,9.8,83,81,C,A,C,86
+X,United States Steel Corp,METALS,Steel-Producers,118,NYSE,22.02,2,0.44,15790,5.8,69,35,C,A,D-,64
+ZKIN,ZK International Group,METALS,Steel-Producers,118,NASDAQ,1.39,-3.8,-0.06,46,-88.2,8,5,C,D,D+,10
+ATI,Allegheny Technologies,METALS,Steel-Specialty Alloys,135,NYSE,21.96,17,3.19,9364,602.4,33,72,C-,E,B,58
+CRS,Carpenter TechnologyCorp,METALS,Steel-Specialty Alloys,135,NYSE,30.98,3.7,1.1,500,115.6,27,31,C-,E,D,28
+CSTM,Constellium Se,METALS,Steel-Specialty Alloys,135,NYSE,17.29,-2,-0.36,544,19.9,74,75,C-,-,D-,63
+EAF,Graftech International,METALS,Steel-Specialty Alloys,135,NYSE,11.36,3.8,0.42,2175,101.5,88,60,C-,-,D-,58
+GSM,Ferroglobe Plc,METALS,Steel-Specialty Alloys,135,NASDAQ,5.23,-2.6,-0.14,590,-42.4,21,83,C-,D,C,47
+HWM,Howmet Aerospace Inc,METALS,Steel-Specialty Alloys,135,NYSE,32.75,3.6,1.13,3757,92.4,75,77,C-,D,B-,73
+TMST,Timkensteel Corporation,METALS,Steel-Specialty Alloys,135,NYSE,14.88,0.5,0.08,468,-18.8,69,98,C-,C,C+,81
+USAP,Univ Stainless Alloy Pdt,METALS,Steel-Specialty Alloys,135,NASDAQ,9.64,7.2,0.65,17,-9.5,44,55,C-,E,A-,56
+VATE,Innovate Corp,METALS,Steel-Specialty Alloys,135,NYSE,3.84,-3.2,-0.13,51,-66.7,28,96,C-,D,C-,65
+AEM,Agnico Eagle Mines Ltd,MINING,Mining-Gold/Silver/Gems,165,NYSE,48.7,1.7,0.82,1659,-11.7,82,24,D,B,D-,49
+AG,First Majestic Silver,MINING,Mining-Gold/Silver/Gems,165,NYSE,10.11,-2,-0.21,3954,-10,30,20,D,B,E,19
+AGI,Alamos Gold Inc,MINING,Mining-Gold/Silver/Gems,165,NYSE,6.79,-0.9,-0.06,2815,-7.4,83,30,D,B,C-,54
+ASM,Avino Silver & Gold Mine,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.73,-2.4,-0.02,364,-22.2,24,17,D,E,D-,7
+AU,Anglogold Ashanti Ads,MINING,Mining-Gold/Silver/Gems,165,NYSE,19.05,-0.8,-0.16,2500,10.7,77,44,D,A,B-,62
+AUMN,Golden Minerals Co,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.38,2.8,0.01,270,-54.6,56,15,D,D,C,31
+AUY,Yamana Gold Inc,MINING,Mining-Gold/Silver/Gems,165,NYSE,4.09,-0.8,-0.04,12805,-14.4,67,42,D,B,B,59
+AXU,Alexco Resource Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,1.4,-6,-0.09,655,-17.9,6,17,D,D,E,13
+BTG,B2Gold Corp,MINING,Mining-Gold/Silver/Gems,165,NYSE,3.63,-1,-0.04,9910,12.4,62,26,D,B,E,36
+BVN,Buenaventura Mining Ads,MINING,Mining-Gold/Silver/Gems,165,NYSE,7.73,0.7,0.05,739,-25.1,30,33,D,D,B+,34
+CDE,Coeur Mining Inc,MINING,Mining-Gold/Silver/Gems,165,NYSE,4.68,-3.8,-0.19,3880,2.7,8,15,D,C,B,19
+CGAU,Centerra Gold Inc,MINING,Mining-Gold/Silver/Gems,165,NYSE,8.31,1,0.09,25,-64.9,69,60,D,A,B-,72
+CHNR,China Natural Resources,MINING,Mining-Gold/Silver/Gems,165,NASDAQ,0.79,-4.8,-0.04,30,-78.1,16,12,D,B,C,24
+CMCL,Caledonia Mining Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,11.66,-0.3,-0.03,6,-79.2,60,31,D,A,C,57
+CTGO,Contango Ore Inc,MINING,Mining-Gold/Silver/Gems,165,AMEX,21.5,-0.1,-0.03,0,-85.3,16,25,D,-,E,21
+DRD,Drdgold Ltd Adr,MINING,Mining-Gold/Silver/Gems,165,NYSE,8,-0.6,-0.05,94,-37.7,71,26,D,A,E,50
+EGO,Eldorado Gold Corp,MINING,Mining-Gold/Silver/Gems,165,NYSE,8.91,1.3,0.12,1908,16.9,18,32,D,C,E,22
+EMX,Emx Royalty Corporation,MINING,Mining-Gold/Silver/Gems,165,AMEX,2.08,0.7,0.02,69,-59,8,16,D,D,D,20
+EQX,Equinox Gold Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,5.88,-0.2,-0.01,1287,-21.1,30,20,D,B,E,29
+EXK,Endeavour Silver Corp,MINING,Mining-Gold/Silver/Gems,165,NYSE,3.59,-3.5,-0.13,1628,-29.3,30,19,D,C,E,26
+EXN,Excellon Resources Inc,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.72,5.8,0.04,29,-39.5,2,3,D,D,D-,1
+FNV,Franco Nevada Corp,MINING,Mining-Gold/Silver/Gems,165,NYSE,134.24,1.3,1.75,458,8.2,93,42,D,A,D,72
+FSM,Fortuna Silver Mines,MINING,Mining-Gold/Silver/Gems,165,NYSE,3.42,-2.8,-0.1,2647,-36.6,55,15,D,A,D,39
+FURY,Fury Gold Mines Ltd,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.68,1.1,0.01,35,-82.2,8,20,D,-,B-,15
+GATO,Gatos Silver Inc,MINING,Mining-Gold/Silver/Gems,165,NYSE,3.28,1.4,0.05,2294,106.7,23,1,D,-,C+,9
+GAU,Galiano Gold Inc,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.67,-2.1,-0.01,524,16.6,40,18,D,-,B-,27
+GFI,Gold Fields Ltd Adr,MINING,Mining-Gold/Silver/Gems,165,NYSE,10.57,-0.5,-0.06,11634,104.1,69,88,D,A,D+,78
+GLDG,Goldmining Inc,MINING,Mining-Gold/Silver/Gems,165,ARCA,1.48,-3.6,-0.06,423,-45.1,33,81,D,-,C-,50
+GOLD,Barrick Gold Corporation,MINING,Mining-Gold/Silver/Gems,165,NYSE,19.25,0.8,0.16,14428,-5,53,39,D,C,D,41
+GORO,Gold Resource Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,1.66,-3.5,-0.06,515,-43.9,69,23,D,C,C-,40
+GPL,Great Panther Mining Ltd,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.2,26.3,0.04,7115,122.2,8,1,D,D,D-,1
+GROY,Gold Royalty Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,4.39,-2.4,-0.11,285,-40.4,2,60,D,E,D,29
+GSV,Gold Standard Ventures,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.39,-2.1,-0.01,373,-37.9,27,20,D,-,D,18
+HL,Hecla Mining Company,MINING,Mining-Gold/Silver/Gems,165,NYSE,4.93,-3.3,-0.17,5774,2.2,27,27,D,C,D+,32
+HMY,Harmony Gold Mng Co Adr,MINING,Mining-Gold/Silver/Gems,165,NYSE,3.62,-0.7,-0.03,3624,-25.6,69,35,D,A,D-,55
+HYMC,Hycroft Mining Holding,MINING,Mining-Gold/Silver/Gems,165,NASDAQ,0.4,-4.3,-0.02,134,-37.1,44,1,D,-,B-,15
+IAG,Iamgold Corp,MINING,Mining-Gold/Silver/Gems,165,NYSE,2.52,-0.4,-0.01,4738,-20.4,8,29,D,D,C-,21
+ITRG,Integra Resources Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,2.04,2,0.04,35,-60.1,7,19,D,-,E,11
+KGC,Kinross Gold Corp,MINING,Mining-Gold/Silver/Gems,165,NYSE,5.49,0.3,0.02,17313,15.5,59,27,D,B,D,39
+KL,Kirkland Lake Gold Ltd,MINING,Mining-Gold/Silver/Gems,165,NYSE,38.63,2.2,0.83,1344,5.2,83,39,D,A,D-,63
+LODE,Comstock Mining Inc,MINING,Mining-Gold/Silver/Gems,165,AMEX,1.5,0,0,469,-43.4,8,13,D,B,C+,21
+MAG,M A G Silver Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,14.28,0.8,0.11,303,-37.7,23,19,D,-,E,14
+MMX,Maverix Metals Inc,MINING,Mining-Gold/Silver/Gems,165,AMEX,4.25,-0.5,-0.02,77,-41.3,83,29,D,B,C-,52
+MTA,Metalla Royalty & Stream,MINING,Mining-Gold/Silver/Gems,165,AMEX,6.32,-0.9,-0.06,69,-57.2,16,22,D,D,C+,27
+MUX,McEwen Mining Inc,MINING,Mining-Gold/Silver/Gems,165,NYSE,0.85,-1.3,-0.01,596,-69.2,14,19,D,E,E,15
+NEM,Newmont Corporation,MINING,Mining-Gold/Silver/Gems,165,NYSE,62.18,1.4,0.85,4491,-14.3,79,77,D,B,C+,72
+NEWP,New Pacific Metals Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,2.88,-0.2,-0.01,180,4.6,20,16,D,E,D-,15
+NEXA,Nexa Resources,MINING,Mining-Gold/Silver/Gems,165,NYSE,8.38,-0.8,-0.07,24,-77.5,52,42,D,D,C,43
+NFGC,New Found Gold Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,6.13,-1.3,-0.08,56,-54.4,18,39,D,-,D-,26
+NG,Novagold Resources Inc,MINING,Mining-Gold/Silver/Gems,165,AMEX,6.39,-3.8,-0.26,1087,19.5,17,25,D,-,C-,22
+NGD,New Gold Inc,MINING,Mining-Gold/Silver/Gems,165,AMEX,1.58,0,0,5853,-33.6,66,52,D,C,D-,57
+NSR,Nomad Royalty Company,MINING,Mining-Gold/Silver/Gems,165,NYSE,6.58,-1.8,-0.12,8,-65.9,20,37,D,B,E,33
+OR,Osisko Gold Royalties,MINING,Mining-Gold/Silver/Gems,165,NYSE,11.23,1.3,0.14,482,-14.9,88,33,D,B,E,57
+ORLA,Orla Mining Ltd,MINING,Mining-Gold/Silver/Gems,165,AMEX,3.44,1.2,0.04,35,-51.3,69,39,D,-,D-,39
+PAAS,Pan American Silver Corp,MINING,Mining-Gold/Silver/Gems,165,NASDAQ,21.77,-2.3,-0.51,1941,-2.5,71,22,D,B,D,46
+PLG,Platinum Group Metals,MINING,Mining-Gold/Silver/Gems,165,AMEX,1.58,-2.2,-0.04,291,-63.6,13,8,D,-,D-,6
+PPTA,Perpetua Resources Corp,MINING,Mining-Gold/Silver/Gems,165,NASDAQ,3.55,-1.3,-0.05,61,-40.8,22,15,D,-,E,12
+PVG,Pretium Resources Inc,MINING,Mining-Gold/Silver/Gems,165,NYSE,13.66,-0.5,-0.08,367,-66.6,58,95,D,B,B-,75
+PZG,Paramount Gold Nevada,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.67,-3.5,-0.02,25,-79.5,48,20,D,E,E,24
+RGLD,Royal Gold Inc,MINING,Mining-Gold/Silver/Gems,165,NASDAQ,103.98,1.1,1.08,352,6.5,94,44,D,A,B-,75
+SA,Seabridge Gold Inc,MINING,Mining-Gold/Silver/Gems,165,NYSE,15.76,-1.7,-0.28,118,-51.7,30,30,D,-,D,33
+SAND,Sandstorm Gold Ltd,MINING,Mining-Gold/Silver/Gems,165,NYSE,6.03,-0.6,-0.04,903,-38.9,46,32,D,B,D+,46
+SBSW,Sibanye Stillwater Adr,MINING,Mining-Gold/Silver/Gems,165,NYSE,14.68,-2,-0.3,1385,-49.6,74,52,D,A,B-,73
+SILV,Silvercrest Metals Inc,MINING,Mining-Gold/Silver/Gems,165,AMEX,7.6,-1,-0.08,343,-42,55,28,D,-,D-,31
+SKE,Skeena Resources Limited,MINING,Mining-Gold/Silver/Gems,165,NYSE,10.25,-3.4,-0.36,42,39.3,2,69,D,-,C-,37
+SSRM,SSR Mining Inc,MINING,Mining-Gold/Silver/Gems,165,NASDAQ,16.57,-0.7,-0.13,1514,40.1,77,75,D,B,C+,79
+SVM,Silvercorp Metals Inc,MINING,Mining-Gold/Silver/Gems,165,AMEX,3.23,-2.9,-0.1,840,-17.8,51,16,D,B,E,21
+THM,Intl Tower Hill Mine Ltd,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.74,-0.2,0,21,-83.8,27,23,D,-,C+,24
+TRX,Tanzanian Gold Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.37,0.8,0,458,-7.4,20,19,D,-,C,14
+USAS,Americas Gld & Slvr Crop,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.75,-3.7,-0.03,190,-66.3,6,13,D,D,C,12
+USAU,US Gold Corp,MINING,Mining-Gold/Silver/Gems,165,NASDAQ,7.01,-1.8,-0.13,24,-38,30,17,D,-,E,13
+VGZ,Vista Gold Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,0.7,-1.5,-0.01,136,-39.8,8,25,D,-,C,18
+VZLA,Vizsla Silver Corp,MINING,Mining-Gold/Silver/Gems,165,AMEX,1.92,0,0,33,-37.7,6,27,D,-,-,27
+WPM,Wheaton Precious Metals,MINING,Mining-Gold/Silver/Gems,165,NYSE,40.73,0.3,0.12,1167,-34.7,72,52,D,B,D+,60
+AA,Alcoa Corporation,MINING,Mining-Metal Ores,45,NYSE,59.38,2.1,1.21,4156,-33.6,74,99,A-,A,B+,96
+AAU,Almaden Minerals Ltd,MINING,Mining-Metal Ores,45,AMEX,0.3,2.6,0.01,494,-0.4,13,15,A-,-,D-,19
+BHP,B H P Group Ltd Adr,MINING,Mining-Metal Ores,45,NYSE,65.62,1,0.62,5033,29.8,97,81,A-,A,C,97
+CCJ,Cameco Corp,MINING,Mining-Metal Ores,45,NYSE,19.84,-2,-0.41,5271,8.1,39,84,A-,E,C,59
+DNN,Denison Mines Corp,MINING,Mining-Metal Ores,45,AMEX,1.2,-2.8,-0.04,5023,-45.7,44,83,A-,D,D+,66
+ERO,Ero Copper Corp,MINING,Mining-Metal Ores,45,NYSE,12.78,2.5,0.31,67,57.5,39,14,A-,B,D-,44
+FCX,Freeport McMoRan Inc,MINING,Mining-Metal Ores,45,NYSE,39.45,1.1,0.43,15978,9.9,73,85,A-,A,E,86
+HBM,Hudbay Minerals Inc,MINING,Mining-Metal Ores,45,NYSE,7.24,-1.7,-0.13,662,-25.6,69,86,A-,D,D-,80
+LAC,Lithium Americas Corp,MINING,Mining-Metal Ores,45,NYSE,26.06,-3.6,-0.96,1742,-55.5,2,98,A-,-,C,54
+LGO,Largo Inc,MINING,Mining-Metal Ores,45,NASDAQ,8.06,-2.2,-0.18,58,-39.3,69,11,A-,B,D,58
+LITM,Snow Lake Resources Ltd,MINING,Mining-Metal Ores,45,NASDAQ,5.9,1.7,0.1,80,-92.4,27,6,A-,-,A,33
+MP,M P Materials Corp,MINING,Mining-Metal Ores,45,NYSE,39.49,-2.2,-0.87,1112,-44.5,63,93,A-,A,B-,96
+MSB,Mesabi Trust,MINING,Mining-Metal Ores,45,NYSE,30.34,3.5,1.02,43,-52.2,94,91,A-,A,B-,95
+NAK,Northern Dynasty Minerls,MINING,Mining-Metal Ores,45,AMEX,0.31,-1.5,0,1324,-53.7,42,15,A-,-,D+,31
+NXE,Nexgen Energy Ltd,MINING,Mining-Metal Ores,45,AMEX,4.18,-2.2,-0.1,1221,-40,37,60,A-,-,E,43
+OMEX,Odyssey Marine Exploratn,MINING,Mining-Metal Ores,45,NASDAQ,5.86,0.7,0.04,15,-16.8,41,33,A-,-,B-,40
+PLL,Piedmont Lithium Inc,MINING,Mining-Metal Ores,45,NASDAQ,47.85,-2.2,-1.07,135,-49.7,1,25,A-,-,C+,28
+PLM,Polymet Mining Corp,MINING,Mining-Metal Ores,45,AMEX,2.55,-4,-0.11,68,-33.2,43,25,A-,-,C+,38
+RIO,Rio Tinto Plc Adr,MINING,Mining-Metal Ores,45,NYSE,74.3,0.1,0.1,3772,8.8,99,79,A-,A,D+,97
+SCCO,Southern Copper Corp,MINING,Mining-Metal Ores,45,NYSE,64.11,-1.6,-1.05,961,27.4,95,69,A-,A,C-,96
+SGML,Sigma Lithium Corp,MINING,Mining-Metal Ores,45,NASDAQ,10.27,2.2,0.23,279,55.9,8,94,A-,-,B,64
+SLI,Standard Lithium Ltd,MINING,Mining-Metal Ores,45,AMEX,7.28,-3.8,-0.29,1126,-43,2,65,A-,-,B-,39
+SMTS,Sierra Metals Inc,MINING,Mining-Metal Ores,45,AMEX,1.3,1.2,0.02,305,-30.4,30,8,A-,B,D,34
+TECK,Teck Resources Ltd,MINING,Mining-Metal Ores,45,NYSE,32.49,0,-0.01,3153,-5.4,76,97,A-,B,C+,99
+TGB,Taseko Mines Ltd,MINING,Mining-Metal Ores,45,AMEX,1.94,-1.3,-0.03,822,-53.8,63,83,A-,D,C,75
+TMC,T M C Metals Company,MINING,Mining-Metal Ores,45,NASDAQ,1.44,-8.4,-0.13,754,-54.6,12,1,A-,-,B-,17
+TMQ,Trilogy Metals Inc,MINING,Mining-Metal Ores,45,NYSE,1.51,-1.3,-0.02,48,-77.3,8,21,A-,-,B-,30
+TRQ,Turquoise Hill Resources,MINING,Mining-Metal Ores,45,NYSE,18.07,-0.8,-0.15,352,-58.4,27,96,A-,B,B+,81
+UAMY,U S Antimony Corp,MINING,Mining-Metal Ores,45,AMEX,0.44,-4.4,-0.02,301,-59.3,42,9,A-,E,D-,29
+UEC,Uranium Energy Corp,MINING,Mining-Metal Ores,45,AMEX,2.7,-2.4,-0.07,7518,-6.9,45,69,A-,-,E,47
+URG,Ur-Energy Inc,MINING,Mining-Metal Ores,45,AMEX,1.19,-1.3,-0.02,1672,-32.8,2,44,A-,E,B-,34
+UUUU,Energy Fuels Inc,MINING,Mining-Metal Ores,45,AMEX,6.49,-2,-0.14,2738,-2.5,38,87,A-,E,D+,61
+VALE,Vale Sa Adr,MINING,Mining-Metal Ores,45,NYSE,16.35,1,0.17,20303,-24.8,67,85,A-,A,D,93
+WRN,Western Copper and Gold,MINING,Mining-Metal Ores,45,AMEX,1.53,-1.3,-0.02,214,0.9,27,65,A-,-,B,53
+WWR,Westwater Resources Inc,MINING,Mining-Metal Ores,45,AMEX,2.08,-3.5,-0.08,384,-42.5,46,9,A-,-,D-,27
+XPL,Solitario Zinc Corp,MINING,Mining-Metal Ores,45,AMEX,0.47,-1.1,-0.01,48,-64,20,22,A-,E,D,29
+AMCR,Amcor Plc,MISC,Containers/Packaging,68,NYSE,12.11,-0.7,-0.09,7410,81.8,76,75,B,B,C-,81
+ATR,Aptargroup Inc,MISC,Containers/Packaging,68,NYSE,116.5,-0.8,-0.95,253,26.4,54,30,B,B,B-,52
+BERY,Berry Global Group Inc,MISC,Containers/Packaging,68,NYSE,67.32,-0.2,-0.14,1650,184.1,67,83,B,B,D-,85
+BLL,Ball Corp,MISC,Containers/Packaging,68,NYSE,94.31,-2.3,-2.27,1124,-8.2,83,83,B,A,D+,89
+CCK,Crown Holdings Inc,MISC,Containers/Packaging,68,NYSE,114.67,-1.2,-1.36,545,-19.9,81,89,B,A,B-,90
+FORD,Forward Industries Inc,MISC,Containers/Packaging,68,NASDAQ,1.6,0.6,0.01,52,-34.7,42,14,B,C,B-,36
+GEF,Greif Inc Cl A,MISC,Containers/Packaging,68,NYSE,59.39,-1.2,-0.7,103,-12.2,93,69,B,B,E,84
+GEFB,Greif Inc Cl B,MISC,Containers/Packaging,68,NYSE,59.3,-0.9,-0.52,6,-31.4,93,69,B,B,C-,88
+KRT,Karat Packaging Inc,MISC,Containers/Packaging,68,NASDAQ,16.49,0.3,0.06,19,6.4,25,23,B,A,D,42
+MYE,Myers Industries Inc,MISC,Containers/Packaging,68,NYSE,17.56,-2.1,-0.38,37,-15.4,72,27,B,B,D-,57
+OI,O-I Glass Inc,MISC,Containers/Packaging,68,NYSE,14.01,2.9,0.4,1175,85,68,52,B,B,C,62
+PACK,Ranpak Holdings Cl A,MISC,Containers/Packaging,68,NYSE,26.23,-0.7,-0.2,541,66.9,45,81,B,D,E,59
+PTVE,Pactiv Evergreen Inc,MISC,Containers/Packaging,68,NASDAQ,10.72,-2.9,-0.32,125,14.8,69,22,B,D,B-,53
+REYN,Reynolds Consumer Prdcts,MISC,Containers/Packaging,68,NASDAQ,30.09,0.1,0.02,241,-9.7,57,79,B,B,D+,75
+SEE,Sealed Air Corp,MISC,Containers/Packaging,68,NYSE,68.29,0.4,0.29,484,-11.7,76,94,B,-,D+,76
+SLGN,Silgan Holdings Inc,MISC,Containers/Packaging,68,NASDAQ,44.64,-1.9,-0.85,275,64.4,87,89,B,B,C+,93
+SLVM,Sylvamo Corp,MISC,Containers/Packaging,68,NYSE,32.41,3.7,1.17,462,40.4,73,75,B,C,B,88
+SON,Sonoco Products Co,MISC,Containers/Packaging,68,NYSE,57.54,-0.3,-0.16,395,-9.4,62,42,B,B,C+,63
+UFPT,U F P Tech Inc,MISC,Containers/Packaging,68,NASDAQ,70.42,-1.2,-0.86,41,92.8,90,95,B,C,C+,90
+ALPP,Alpine 4 Holdings Cl A,MISC,Diversified Operations,63,NASDAQ,1.57,-1.3,-0.02,441,-62.2,47,4,B+,-,E,24
+BRKA,Berkshire Hathaway Cl A,MISC,Diversified Operations,63,NYSE,479761.49,1.8,8577.49,1,-2.6,84,90,B+,C,C,89
+BRKB,Berkshire Hathaway Cl B,MISC,Diversified Operations,63,NYSE,319.83,1.9,5.87,3169,-32.2,84,90,B+,C,C+,90
+CHE,Chemed Corporation,MISC,Diversified Operations,63,NYSE,471.9,0.9,4.19,17,-71.7,82,48,B+,B,B-,76
+CR,Crane Co,MISC,Diversified Operations,63,NYSE,104.65,0.9,0.93,305,57.6,79,84,B+,B,C+,89
+CSL,Carlisle Cos Inc,MISC,Diversified Operations,63,NYSE,222.2,-0.1,-0.25,225,36,79,89,B+,B,C+,91
+EMR,Emerson Electric Co,MISC,Diversified Operations,63,NYSE,97.63,5.6,5.15,3690,88.9,80,55,B+,B,D,75
+ETN,Eaton Corp Plc,MISC,Diversified Operations,63,NYSE,161.6,1.4,2.21,943,-21.7,82,79,B+,B,D,83
+GE,General Electric Co,MISC,Diversified Operations,63,NYSE,98.25,0.3,0.3,3962,-19.8,54,48,B+,D,D,56
+HON,Honeywell International,MISC,Diversified Operations,63,NASDAQ,207.46,1,2.12,1923,-15.7,81,42,B+,B,E,66
+IEP,Icahn Enterprises Lp,MISC,Diversified Operations,63,NASDAQ,55.03,0.6,0.34,307,-29.9,30,42,B+,D,E,43
+JCI,Johnson Controls Intl,MISC,Diversified Operations,63,NYSE,72.39,0.1,0.08,4065,88.5,65,86,B+,C,E,76
+MDU,M D U Resources Group,MISC,Diversified Operations,63,NYSE,29.44,1,0.29,555,2.6,65,42,B+,C,B-,64
+MMM,Three M Company,MISC,Diversified Operations,63,NYSE,166.86,-0.3,-0.57,2357,40.6,51,32,B+,A,D-,52
+OTTR,Otter Tail Corp,MISC,Diversified Operations,63,NASDAQ,62.69,0.3,0.19,57,-34.1,93,92,B+,B,D-,95
+PHG,Koninklijke Philips ADR,MISC,Diversified Operations,63,NYSE,33.22,-0.7,-0.25,884,-51,54,16,B+,C,E,31
+ROP,Roper Technologies Inc,MISC,Diversified Operations,63,NYSE,453.49,2.6,11.5,668,124.3,74,52,B+,B,D-,76
+SEB,Seaboard Corp,MISC,Diversified Operations,63,AMEX,3875.35,1.9,71.68,0,-46.5,35,72,B+,B,D+,72
+TRS,Trimas Corp,MISC,Diversified Operations,63,NASDAQ,34.25,-2.1,-0.73,51,-3.5,77,81,B+,C,C-,86
+ZY,Zymergen Inc,MISC,Diversified Operations,63,NASDAQ,4.98,-2.5,-0.13,641,-32.5,10,1,B+,-,E,7
+AAC,Ares Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.76,0.2,0.02,83,-63,39,60,B,-,C+,59
+AACI,Armada Acquisition Crp I,MISC,Finance-Blank Check,76,NASDAQ,9.85,-0.6,-0.06,2,-93.8,8,72,B,E,B-,56
+AAQC,Accelerate Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.71,0,0,0,0,8,65,B,-,B,52
+ABGI,ABG Acq Corp I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,0,0,0,0,8,55,B,-,D-,38
+ACAH,Atlantic Coastal Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,9.89,-0.1,-0.01,1,-99.4,8,72,B,-,A-,59
+ACAQ,Athena Consumer Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.93,-0.1,-0.01,179,212.6,8,65,B,-,-,44
+ACBA,Ace Global Business Acq,MISC,Finance-Blank Check,76,NASDAQ,10.14,0,0,0,0,8,72,B,-,B-,49
+ACDI,Ascendant Digi AcqIIIClA,MISC,Finance-Blank Check,76,NYSE,9.91,-0.2,-0.02,210,1728.3,8,69,B,-,-,47
+ACEV,Ace Convergence Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10,0,0,235,78.3,59,55,B,-,C-,56
+ACII,Atlas Crest inv II Cl A,MISC,Finance-Blank Check,76,NYSE,9.73,-0.1,-0.01,2,-96.4,8,60,B,-,B-,45
+ACQR,Independence Hldgs Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,0,0,0,0,8,65,B,-,B,52
+ACRO,Acropolis Infra Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.67,0,0,0,0,8,65,B,-,D-,40
+ACTD,Arclight Clean Tr II ClA,MISC,Finance-Blank Check,76,NASDAQ,9.86,0,0,378,8,8,69,B,-,C+,48
+ADAL,Anthemis Digi Acq I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.91,0,0,0,0,8,75,B,-,-,50
+ADER,26 Capital Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,0.3,0.03,213,135.9,39,65,B,-,D-,58
+ADEX,Adit Edtech Acquisition,MISC,Finance-Blank Check,76,NYSE,9.87,-0.3,-0.03,39,-80.6,8,72,B,-,D-,44
+ADOC,Edoc Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.27,0.1,0.01,1676,16343.9,4,69,B,-,C+,49
+ADRA,Adara Acquisition Cl A,MISC,Finance-Blank Check,76,AMEX,9.81,0.3,0.03,0,-97.2,39,65,B,-,B,62
+AEAC,Authentic Equity Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,9.75,0.1,0.01,13,-38.7,39,65,B,-,B-,62
+AEAE,Altenergy Acq Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,-0.7,-0.07,19,-46,8,60,B,-,-,42
+AEHA,Aesther HealthcareAcqClA,MISC,Finance-Blank Check,76,NASDAQ,10.02,0.4,0.04,2,-85.7,8,65,B,-,C-,43
+AFAC,Arena Fortify Acq Cp ClA,MISC,Finance-Blank Check,76,NASDAQ,9.95,0,0,119,423.4,8,65,B,-,-,43
+AFAQ,Af Acquisition Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.69,0.2,0.02,31,129.8,8,60,B,-,C-,42
+AFTR,Afternext Healthtech ClA,MISC,Finance-Blank Check,76,NYSE,9.62,-0.7,-0.07,5,-86.5,8,65,B,-,B+,51
+AGAC,African Gold Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.73,0.1,0.01,10,-85.2,8,65,B,-,B-,51
+AGBA,Agba Acquisition Limited,MISC,Finance-Blank Check,76,NASDAQ,11.04,0.1,0.01,0,-81.8,4,75,B,-,C+,52
+AGCB,Altimeter Growth 2 Cl A,MISC,Finance-Blank Check,76,NYSE,9.76,-0.1,-0.01,114,-45.4,8,39,B,-,D-,31
+AGGR,Agile Growth Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,-0.2,-0.02,2,-89.1,8,65,B,-,D,41
+AHPA,Avista Public Acq II ClA,MISC,Finance-Blank Check,76,NASDAQ,9.99,0,0,0,0,8,69,B,-,B+,55
+AKIC,Sports Ventures Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.87,0.4,0.04,7,-90.4,8,65,B,-,B-,47
+ALAC,Alberton Acquisition Crp,MISC,Finance-Blank Check,76,NASDAQ,11.86,0,0.01,3,-51.5,17,69,B,-,A-,59
+ALCC,Altc Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.78,-0.5,-0.05,1,-97.2,8,60,B,-,C,42
+ALOR,Alsp Orchid Acq Cp I ClA,MISC,Finance-Blank Check,76,NASDAQ,9.94,-0.2,-0.02,9,-83.5,8,69,B,-,-,46
+ALPA,Alpha Healthcare III ClA,MISC,Finance-Blank Check,76,NASDAQ,9.62,0,0,0,0,8,60,B,-,D-,39
+ALSA,Alpha Star Acquisition,MISC,Finance-Blank Check,76,NASDAQ,9.81,-0.1,-0.01,40,-63.8,8,65,B,-,-,46
+ALTU,Altitude Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.91,0.1,0.01,6,-94.1,4,65,B,-,B+,42
+AMAO,American Acq Opp Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.06,0,0,0,0,8,69,B,-,B,53
+AMCI,AMCI Acquisition II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.62,0,0,0,0,8,55,B,-,E,35
+AMPI,Advanced Merger Ptns ClA,MISC,Finance-Blank Check,76,NYSE,9.7,-0.1,-0.01,40,108.2,8,65,B,-,B,53
+ANAC,Arctos Northstar AcqCl A,MISC,Finance-Blank Check,76,NYSE,9.75,0,0,0,-99.9,8,60,B,-,C-,43
+ANZU,Anzu Special Acq I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0,0,0,0,8,65,B,-,B-,49
+APAC,Stonebridge Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.91,0,0,0,0,8,69,B,-,C+,49
+APGB,Apollo Strtgc Grw II ClA,MISC,Finance-Blank Check,76,NYSE,9.73,-0.2,-0.02,140,78.5,47,65,B,-,B,67
+APMI,AxonPrime Infra Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.65,0,0,0,0,8,65,B,-,B,48
+APN,Apeiron Capital Inv ClA,MISC,Finance-Blank Check,76,NYSE,9.96,0,0,0,0,8,69,B,-,-,47
+APSG,Apollo Strat Grw Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.9,0,0,39,-95.1,69,60,B,-,B-,69
+APTM,Alpha Partners Tech Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,-0.1,-0.01,1,-95.9,8,69,B,-,C+,48
+APXI,Apx Acquisition I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.83,0,0,0,0,8,1,B,-,-,27
+ARBG,Aequi Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.8,0.3,0.03,4,-89.4,39,60,B,-,D+,56
+ARCK,Arbor Rapha CpBiohldIClA,MISC,Finance-Blank Check,76,NASDAQ,9.98,-0.8,-0.08,10,-67.6,8,75,B,-,-,50
+ARGU,Argus Capital Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.91,-0.2,-0.02,11,-32.8,8,69,B,-,A+,62
+ARIZ,Arisz Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,9.8,0,0,0,0,1,69,B,-,-,44
+ARRW,Arrowroot AcquisitionClA,MISC,Finance-Blank Check,76,NASDAQ,9.7,0.1,0.01,72,431.2,8,65,B,-,D+,44
+ARTA,Artisan Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.96,0.1,0.01,68,-57,8,69,B,-,B-,49
+ARTE,Artemis Strtgc Inv Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.84,-0.4,-0.04,7,-87.1,8,65,B,-,D,42
+ARYD,ARYA ScienceAcq CpIV ClA,MISC,Finance-Blank Check,76,NASDAQ,9.99,1.5,0.15,13,-88.7,4,42,B,-,B-,37
+ARYE,ARYA Sciences Acq V Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,-0.1,-0.01,9,-61.3,8,55,B,-,E,37
+ASAQ,Atlantic Avenue Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.81,-0.1,-0.01,59,-22.6,33,60,B,-,B+,61
+ASAX,Astrea Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,9.96,-0.1,-0.01,236,330.6,8,72,B,-,C+,52
+ASPA,Abri Spac I Inc,MISC,Finance-Blank Check,76,NASDAQ,9.85,0.3,0.03,3,-86.6,8,69,B,-,A-,55
+ASPC,Alpha Capital Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.87,0,0,142,479.6,8,69,B,-,B,57
+ASZ,Austerlitz Acq II Cl A,MISC,Finance-Blank Check,76,NYSE,9.74,0.1,0.01,155,-52.8,8,60,B,-,B,46
+ATA,Americas Technology Acq,MISC,Finance-Blank Check,76,NYSE,10.17,-0.2,-0.02,0,-97.2,39,69,B,-,B,65
+ATAQ,Altimar Acq III Cl A,MISC,Finance-Blank Check,76,NYSE,9.73,0,0,0,0,8,65,B,-,B,50
+ATEK,Athena Tech Acq II Cl A,MISC,Finance-Blank Check,76,NYSE,9.7,0,0,0,0,8,1,B,-,-,27
+ATVC,Tribe Capital Grw I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.69,0,0,0,-99.7,8,55,B,-,A-,51
+AURC,Aurora Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.91,0,0,10,-89.3,8,55,B,-,D,39
+AUS,Austerlitz Acq Cp I Cl A,MISC,Finance-Blank Check,76,NYSE,9.74,0,0,32,-77.3,8,55,B,-,D+,41
+AVAC,Avalon Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.89,-0.2,-0.02,24,-78.5,8,65,B,-,-,49
+AVAN,Avanti Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.83,0,0,11,-84,39,55,B,-,D,51
+AVHI,Achari Ventures Hldgs I,MISC,Finance-Blank Check,76,NASDAQ,9.9,0.5,0.05,21,-26.3,8,65,B,-,A+,58
+AXH,Industrial Human Capital,MISC,Finance-Blank Check,76,NYSE,9.91,0,0,0,0,8,69,B,-,-,48
+BACA,Berenson Acq Cp I Cl A,MISC,Finance-Blank Check,76,NYSE,9.71,0.4,0.04,8,-92.4,8,65,B,-,B-,49
+BCAC,Brookline Capital Acq,MISC,Finance-Blank Check,76,NASDAQ,10.01,0,0,2,-77.4,33,60,B,-,B-,58
+BCSA,Blockchain Coinv I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.84,0,0,0,-99.9,8,65,B,-,-,43
+BENE,Benessere Cap Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.2,-0.1,-0.01,60,-91.2,39,52,B,-,C+,43
+BGSX,Build Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.79,0,0,0,0,8,69,B,-,D-,42
+BHAC,Crixus BH3 Acq Co Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.94,0,0,0,0,8,75,B,-,A+,62
+BHSE,Bull Horn Holdings Corp,MISC,Finance-Blank Check,76,NASDAQ,10.02,0,0,0,-99.1,33,65,B,-,C+,59
+BIOS,Bioplus Acq Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,-1,-0.1,0,-99.2,8,1,B,-,-,27
+BIOT,Biotech Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,-0.1,-0.01,10,-72.6,39,69,B,-,B-,63
+BITE,Bite Acquisition Corp,MISC,Finance-Blank Check,76,NYSE,9.72,-0.2,-0.02,3,-82.2,20,65,B,-,B+,59
+BLEU,bleuacacia ltd Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,0,0,0,0,8,69,B,-,-,48
+BLNG,Belong Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,-0.2,-0.02,11,-37.9,8,69,B,-,B,50
+BLSA,B C L S Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.83,0.5,0.05,0,-99.7,20,48,B,-,D-,35
+BLTS,Bright Lights Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,-0.4,-0.04,40,-78.7,4,69,B,-,C+,47
+BLUA,Blueriver Acq Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.73,-0.2,-0.02,0,-99.7,8,65,B,-,B+,57
+BMAC,Black Mountain Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.87,0,0,0,0,8,65,B,-,A+,64
+BMAQ,Blockchain Moon Acq Cp,MISC,Finance-Blank Check,76,NASDAQ,9.82,0.1,0.01,3,-88.2,8,65,B,-,D-,40
+BNIX,Bannix Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,9.85,0.1,0.01,9,-36.6,8,60,B,-,E,35
+BNNR,Banner Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.84,0.9,0.09,3,-79.4,8,65,B,-,C,35
+BOAC,Bluescape Opp Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.82,0,0,55,-56.9,39,52,B,-,B-,57
+BOAS,Boa Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.86,0.2,0.02,77,-8.7,8,69,B,-,B-,53
+BOCN,Blue Ocean Acq Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,0,-,0,0,0,-,1,B,-,-,3
+BPAC,Bullpen Parlay Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.81,0,0,0,0,1,1,B,-,-,24
+BRD,Beard Energy TransAcqClA,MISC,Finance-Blank Check,76,NYSE,9.82,0,0,2,-95.6,8,65,B,-,-,44
+BREZ,Breeze Holdings Acq Corp,MISC,Finance-Blank Check,76,NASDAQ,10.23,-0.1,-0.01,113,215.6,23,69,B,-,A-,63
+BRIV,B Riley Prpl 250 Mgr ClA,MISC,Finance-Blank Check,76,NASDAQ,9.64,-0.4,-0.04,14,-33.9,33,65,B,-,D-,55
+BRKH,Burtech Acq Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.82,0,0,0,0,1,65,B,-,-,0
+BRLI,Brilliant Acquisition,MISC,Finance-Blank Check,76,NASDAQ,10.25,0,0,0,0,4,69,B,-,B,52
+BRPM,B Riley Prin150 Mrg Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,0.2,0.02,226,-20.3,33,60,B,-,E,37
+BSAQ,Black Spade Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.66,0,0,0,0,8,60,B,-,B+,50
+BSGA,Blue Safari Grp Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.98,0,0,15,-85.4,8,65,B,-,D-,39
+BSKY,Big Sky Grwth PrtnrsCl A,MISC,Finance-Blank Check,76,NASDAQ,9.65,0,0,0,0,8,55,B,-,D+,39
+BTAQ,Burgundy Tech Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.03,0,0,15,-86.1,69,55,B,-,B-,67
+BTNB,Bridgetown 2 Hldgs Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.91,0.1,0.01,38,-47.5,33,42,B,-,C-,39
+BTWN,Bridgetown Holdings Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.82,-0.1,-0.01,228,-36.6,69,33,B,-,D+,45
+BWAC,Better World Acq Corp,MISC,Finance-Blank Check,76,NASDAQ,10.2,-0.1,-0.01,0,-99.1,39,69,B,-,A-,68
+BWC,Blue Whale Acq Cp I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.69,0.2,0.02,2,-91.9,8,65,B,-,D-,40
+BYTS,BYTE Acquisition Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,0,0,0,0,8,65,B,-,B+,52
+CAS,Cascade Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,10,0.1,0.01,48,3.2,39,65,B,-,B+,65
+CBRG,Chain Bridge I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.89,0.1,0.01,4,-45.5,8,69,B,-,-,48
+CCAC,Citic Capital Acq Cl A,MISC,Finance-Blank Check,76,NYSE,6.94,-4.7,-0.34,753,141.9,39,18,B,-,E,26
+CCAI,Cascadia Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0.2,0.02,12,133.8,8,60,B,-,D,40
+CCTS,Cactus Acq Cp 1 Ltd Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,-0.3,-0.03,1,-92,8,65,B,-,-,43
+CCV,Churchill Capital V Cl A,MISC,Finance-Blank Check,76,NYSE,9.81,-0.2,-0.02,23,-88.2,33,48,B,-,C-,41
+CCVI,Churchill Capt VI Cl A,MISC,Finance-Blank Check,76,NYSE,9.8,-0.1,-0.01,2,-98.1,8,60,B,-,B-,47
+CDAQ,Compass Digital Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.65,0,0,0,0,8,65,B,-,-,45
+CENQ,Cenaq Energy Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.94,-0.3,-0.03,352,745.8,27,69,B,-,B,62
+CFFE,CF Acquisition VIII Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.98,0,0,0,0,4,72,B,-,D+,43
+CFIV,CF Acq Corp IV Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.77,-0.1,-0.01,202,63.2,33,60,B,-,C-,53
+CFVI,CF Acquisition VI Cl A,MISC,Finance-Blank Check,76,NASDAQ,11.81,-1,-0.12,1559,-79.8,69,94,B,-,B-,77
+CHAA,Catcha Investment Cl A,MISC,Finance-Blank Check,76,NYSE,9.7,-0.2,-0.02,21,-38,8,65,B,-,B-,49
+CHPM,C H P Merger Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.13,0,0,0,-99.8,58,65,B,-,E,60
+CHWA,CHW Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,9.79,0.1,0.01,7,150.4,8,69,B,-,B,53
+CIIG,CIIG Capital Ptns II ClA,MISC,Finance-Blank Check,76,NASDAQ,9.85,-0.5,-0.05,0,-97.8,8,69,B,-,D-,41
+CLAA,Colonnade Acq CorpII ClA,MISC,Finance-Blank Check,76,NYSE,9.71,-0.1,-0.01,0,-99.5,8,65,B,-,C-,46
+CLAQ,Cleantech Acquisition Cp,MISC,Finance-Blank Check,76,NASDAQ,9.95,0,0,0,-99.9,69,69,B,-,D,68
+CLAS,Class Acceleration Cl A,MISC,Finance-Blank Check,76,NYSE,9.74,0,0,29,-49.1,8,65,B,-,A-,57
+CLAY,Chavant Capital Acq Cp,MISC,Finance-Blank Check,76,NASDAQ,9.86,0,0,0,-98.7,8,72,B,-,B+,55
+CLBR,Colombier Acq Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.64,0.1,0.01,100,292.6,8,65,B,-,B,50
+CLIM,Climate RlImSl II Aq ClA,MISC,Finance-Blank Check,76,NYSE,9.77,0,0,0,0,8,60,B,-,B-,46
+CLOE,Clover Leaf Capital Cl A,MISC,Finance-Blank Check,76,NASDAQ,10,0,0,0,0,8,69,B,-,B+,53
+CLRM,Clarim Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,-0.1,-0.01,40,-28,8,65,B,-,B-,51
+CMCA,Capitalworks Emg MktsClA,MISC,Finance-Blank Check,76,NASDAQ,9.92,0.2,0.02,10,-83.4,8,1,B,-,-,27
+CND,Concord Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,10.03,0,0,442,-26.8,4,39,B,-,E,28
+CNDA,Concord Acq Cp II Cl A,MISC,Finance-Blank Check,76,NYSE,9.7,-0.2,-0.02,0,-99.6,8,55,B,-,B,43
+CNDB,Concord Acq Cp III Cl A,MISC,Finance-Blank Check,76,NYSE,9.87,0,0,47,-33.9,1,69,B,-,-,43
+CNGL,Canna-Global Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.89,-0.1,-0.01,312,-9.1,8,69,B,-,-,48
+CNTQ,Chardan Nextech Acq 2 Cp,MISC,Finance-Blank Check,76,NASDAQ,9.99,0,0,0,0,39,69,B,-,C,62
+COLI,Colicity Inc Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0.3,0.03,73,55.2,8,60,B,-,B-,47
+CONX,Conx Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.82,0.1,0.01,30,-72.2,39,55,B,-,C,56
+COOL,Corner Growth Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.76,-0.1,-0.01,121,76.5,8,60,B,-,C,43
+CORS,Corsair Partnering CpClA,MISC,Finance-Blank Check,76,NYSE,9.65,0,0,0,0,8,55,B,-,D+,39
+COVA,Cova Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,0.1,0.01,0,-98.5,8,65,B,-,B,54
+CPAA,Conyers Park III Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,9.81,-2.8,-0.28,42,46,8,77,B,-,B,55
+CPAR,Catalyst Ptnrs AcqCpCl A,MISC,Finance-Blank Check,76,NASDAQ,9.69,0,0,299,655.3,8,65,B,-,C,44
+CPTK,Crown Proptech Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.86,0,0,218,187.4,8,69,B,-,C,49
+CPUH,Compute Health Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.76,0.2,0.02,380,137.6,8,65,B,-,E,38
+CREC,Crescera Capital Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,9.87,0.1,0.01,5,-85.6,8,69,B,-,-,48
+CRHC,Cohn Robbins Hldgs Cl A,MISC,Finance-Blank Check,76,NYSE,9.88,-0.1,-0.01,132,-81.4,39,55,B,-,B,59
+CRU,Crucible Acquisition ClA,MISC,Finance-Blank Check,76,NYSE,9.73,-0.2,-0.02,5,-91.3,39,55,B,-,D+,52
+CRZN,Corazon Capitl V838 Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.67,0.1,0.01,74,319,8,60,B,-,E,38
+CSTA,Constellation Acq I Cl A,MISC,Finance-Blank Check,76,NYSE,9.73,-0.1,-0.01,0,-99.3,8,65,B,-,D+,44
+CTAQ,Carney Tech Acq II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.76,-0.3,-0.03,2,-86.5,39,60,B,-,B,53
+CVII,Churchill Capt VII Cl A,MISC,Finance-Blank Check,76,NYSE,9.75,0,0,87,-76.7,8,60,B,-,E,40
+DALS,Da32 Life Sci Tech Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.63,0.1,0.01,15,-85.7,1,52,B,-,D,36
+DAOO,Crypto 1 Acq Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,0.1,0.01,0,-100,1,69,B,-,-,44
+DCRD,DecarbonizationPlusIVClA,MISC,Finance-Blank Check,76,NASDAQ,9.88,-0.2,-0.02,3,-90.3,8,65,B,-,C,43
+DGNU,Dragoneer GrwOppIII Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0.1,0.01,179,76,39,55,B,-,B,59
+DHAC,Digital Health Acq Cp,MISC,Finance-Blank Check,76,NASDAQ,9.93,0,0,0,0,8,69,B,-,-,48
+DHBC,DHB Capital Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,0,0,0,0,8,65,B,-,B+,54
+DHCA,Dhc Acquisition Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,0,0,0,0,8,65,B,-,B+,53
+DHHC,Diamondhead Hldgs Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0,0,9,-83.9,8,65,B,-,D-,42
+DILA,Dila Capital Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.78,0,0,0,0,8,69,B,-,A+,61
+DISA,Disruptive Acq Cp I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.8,0,0,0,0,8,65,B,-,C,45
+DKDCA,Data Knights Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.13,0,0,11,-33.3,8,69,B,-,B-,50
+DLCA,Deep Lake Capital Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.76,0,0,0,0,8,65,B,-,B+,56
+DMAQ,Deep Medicine Acq Cp ClA,MISC,Finance-Blank Check,76,NASDAQ,9.89,0,0,0,0,20,65,B,-,-,54
+DMYS,Dmy Technology Grp VIClA,MISC,Finance-Blank Check,76,NYSE,9.78,0,0,24,-79.9,1,55,B,-,E,32
+DNAA,Social CapSuvretta I ClA,MISC,Finance-Blank Check,76,NASDAQ,9.88,0.3,0.03,214,-25.4,8,55,B,-,C+,42
+DNAB,Social Cap SuvrettaIIClA,MISC,Finance-Blank Check,76,NASDAQ,9.67,0.2,0.02,41,-49.1,8,48,B,-,C,38
+DNAC,SocialCapSuvretta IIIClA,MISC,Finance-Blank Check,76,NASDAQ,9.84,-0.1,-0.01,109,-51.5,8,55,B,-,C-,40
+DNAD,Social CapSuvretta IVClA,MISC,Finance-Blank Check,76,NASDAQ,9.67,0.4,0.04,53,-45,8,48,B,-,D-,35
+DNZ,D and Z Media Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.72,-0.2,-0.02,25,-20.6,8,65,B,-,B,51
+DPCS,Dp Cap Acq Corp I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.9,0,0,100,461.6,8,65,B,-,-,44
+DRAY,Macondray Cap Acq I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,0.1,0.01,18,-57.3,8,60,B,-,C+,43
+DSAC,Duddell Strt Acq Crp ClA,MISC,Finance-Blank Check,76,NASDAQ,9.91,-0.1,-0.01,49,-2.9,39,69,B,-,B,64
+DSAQ,Direct Selling Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.95,-0.1,-0.01,40,-33.7,8,65,B,-,A+,58
+DTOC,Digital Transf Opp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,0,0,0,0,8,65,B,-,E,40
+DTRT,DTRT Health Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.98,0.2,0.02,2,-93.7,8,65,B,-,E,36
+DUNE,Dune Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,0,0,9,-67.9,33,65,B,-,B-,59
+DWAC,Digital World Acq Cp ClA,MISC,Finance-Blank Check,76,NASDAQ,80.21,-3.7,-3.04,6430,12.6,8,99,B,-,A-,53
+DWIN,Delwinds Ins Acq Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.91,0.1,0.01,76,216.3,33,65,B,-,B+,63
+DYNS,Dynamics Special PrpsClA,MISC,Finance-Blank Check,76,NASDAQ,9.84,-0.1,-0.01,10,-93.7,8,55,B,-,E,37
+EAC,Edify Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,0,0,97,276.3,39,65,B,-,B,64
+EBAC,European Biotech Aq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0,0,0,0,8,69,B,-,A-,55
+EDNC,Endurance Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.77,-0.1,-0.01,1,-91.9,8,69,B,-,B,50
+EDTX,EdtechX Hldg Acq II Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.04,0,0,2,-91.7,47,65,B,-,B-,66
+EGGF,EG Acquisition Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.65,0,0,0,0,8,60,B,-,C,43
+EJFA,E J F Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.95,0.1,0.01,23,-82.9,8,69,B,-,D,45
+ENCP,Energem Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.91,0,0,0,0,1,65,B,-,-,43
+ENER,Accretion Acquisition Cp,MISC,Finance-Blank Check,76,NASDAQ,9.75,-0.2,-0.02,3,-97.7,8,65,B,-,-,46
+ENNV,Ecp Envir Grwth Opp Cl A,MISC,Finance-Blank Check,76,NASDAQ,7.3,0.7,0.05,11,-95.9,8,19,B,-,C+,23
+ENPC,Executive Netwrk Part Cp,MISC,Finance-Blank Check,76,NYSE,9.84,-0.1,-0.01,9,-91.3,6,65,B,-,B-,49
+ENTF,Enterprise 4.0TechAcqClA,MISC,Finance-Blank Check,76,NASDAQ,9.86,-0.2,-0.02,7,-68.3,8,60,B,-,-,43
+ENVI,Envir Impact Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,8.85,3.3,0.28,17,-85.1,4,30,B,-,B-,36
+EOCW,Elliott Oppty II Cl A,MISC,Finance-Blank Check,76,NYSE,9.74,0,0,49,-60.3,8,65,B,-,D-,39
+EPHY,Epiphany Tech Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,-0.1,-0.01,12,-61.5,39,60,B,-,E,47
+EPWR,Empowermnt & Incl CpIClA,MISC,Finance-Blank Check,76,NYSE,9.75,0,0,0,-99.7,13,60,B,-,B,51
+EQD,Equity Distribtn Acq ClA,MISC,Finance-Blank Check,76,NYSE,9.84,0.1,0.01,1,-97.8,39,55,B,-,C-,55
+EQHA,Eq Health Acq Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.73,0,0,0,0,39,65,B,-,B+,67
+ERES,East Resources Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.89,0,0,8,-77.7,23,60,B,-,B,57
+ESAC,Esgen Acq Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.91,0,0,0,0,8,69,B,-,-,46
+ESM,ESM Acquisition Corp ClA,MISC,Finance-Blank Check,76,NYSE,9.7,0,0,0,0,8,60,B,-,C-,41
+ESSC,East Stone Acquisition,MISC,Finance-Blank Check,76,NASDAQ,10.8,-2,-0.22,278,-77.1,13,85,B,-,C+,43
+ETAC,E.Merge Tech AcqCrp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.87,-0.1,-0.01,90,-42.4,37,65,B,-,C,59
+EUCR,Eucrates Biomedical Acq,MISC,Finance-Blank Check,76,NASDAQ,9.81,0.1,0.01,104,1165.8,39,60,B,-,C,58
+EVOJ,Evo Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.69,-0.3,-0.03,22,-6.8,8,65,B,-,A+,60
+FACA,Figure Acquisition I ClA,MISC,Finance-Blank Check,76,NYSE,9.8,-0.5,-0.05,0,-99.8,8,60,B,-,D,42
+FACT,Freedom Acq I Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.72,0.1,0.01,2,-93.8,8,60,B,-,B-,47
+FATP,Fat Projects Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.79,0,0,4,-96,8,69,B,-,-,48
+FCAX,Fortress CapitalAcq Cl A,MISC,Finance-Blank Check,76,NYSE,9.76,0,0,27,-80,39,60,B,-,D-,55
+FEXD,Fintech Ecosystem DevClA,MISC,Finance-Blank Check,76,NASDAQ,9.89,0,0,3,-95.6,8,65,B,-,-,46
+FHLT,Future Health Esg Corp,MISC,Finance-Blank Check,76,NASDAQ,9.81,0.1,0.01,135,422.5,1,60,B,-,-,41
+FIAC,Focus Impact Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.9,0.5,0.05,7,-76.7,8,60,B,-,-,42
+FICV,Frontier Investment Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.67,0,0,0,0,8,60,B,-,C+,43
+FINM,Marlin Technology Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,0,0,0,0,39,65,B,-,B-,62
+FLAC,Frazier Lifesci Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0,0,0,0,8,55,B,-,A+,50
+FLAG,First Light Acq Grp Cl A,MISC,Finance-Blank Check,76,NYSE,9.85,0.1,0.01,93,130.3,8,69,B,-,D,42
+FLME,Flame Acq Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.69,-0.2,-0.02,8,-79.7,8,65,B,-,C+,47
+FLYA,Soar Technology AcqCpClA,MISC,Finance-Blank Check,76,NYSE,10.1,0.2,0.02,2,-90,8,69,B,-,D,43
+FMAC,Firstmark Horzn Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.89,0.1,0.01,88,-36.8,39,55,B,-,B+,54
+FMIV,Forum Merger IV Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.77,0.1,0.01,0,-99.6,8,65,B,-,B-,48
+FNVT,Finnovate Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,0.1,0.01,11,-83.7,8,65,B,-,-,46
+FOUN,Founder S P A C Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.98,0.1,0.01,119,-75.1,8,69,B,-,-,48
+FOXW,FoxWayne Ent Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.94,0,0,0,0,8,65,B,-,C,46
+FPAC,Far Peak Acq Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.95,0.1,0.01,130,-64.5,8,44,B,-,D,37
+FRBN,Forbion Eur Aq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,0,0,0,0,1,1,B,-,-,0
+FRLA,Fortune Rise Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10,0.2,0.02,21,-62.8,8,65,B,-,-,46
+FRON,Frontier Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0,0,0,0,8,60,B,-,D-,38
+FRSG,First Reserve Sust Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.83,0,0,182,71.1,8,65,B,-,D+,42
+FRW,PWP Forward Acq I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,0.4,0.04,2,-77.8,39,55,B,-,E,46
+FRXB,Forest Road Acq II Cl A,MISC,Finance-Blank Check,76,NYSE,9.71,0.1,0.01,16,-77.5,8,60,B,-,D+,42
+FSNB,Fusion Acq Corp II Cl A,MISC,Finance-Blank Check,76,NYSE,9.72,-0.2,-0.02,0,-99.9,8,65,B,-,B+,52
+FSRX,FinServ Acq Corp II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,-0.2,-0.02,60,-17.4,8,60,B,-,B-,45
+FSSI,Fortistar Sustb Sols ClA,MISC,Finance-Blank Check,76,NASDAQ,9.74,-0.3,-0.03,1,-94.6,39,65,B,-,A,69
+FST,Fast Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,10.22,-0.3,-0.03,4,-99,2,27,B,-,D-,25
+FTAA,FTAC Athena Acq Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.87,-0.3,-0.03,87,106,8,65,B,-,C+,49
+FTCV,Fintech Acq Corp V Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,0.1,0.01,230,-47.3,33,35,B,-,E,33
+FTEV,Fintech Evolution Aq ClA,MISC,Finance-Blank Check,76,NYSE,9.7,0.1,0.01,11,-66.4,8,65,B,-,E,41
+FTPA,FTAC Parnassus Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0,0,0,0,8,60,B,-,D-,40
+FTVI,Fintech Acq Cp VI Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.76,-0.2,-0.02,4,-83.2,8,60,B,-,B+,50
+FVAM,5 01 Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.79,0,0,2,-55.9,4,55,B,-,B,42
+FVIV,Fortress Value IV Cl A,MISC,Finance-Blank Check,76,NYSE,9.71,-0.3,-0.03,10,-87.7,8,60,B,-,B-,47
+FVT,Fortress Val Acq III ClA,MISC,Finance-Blank Check,76,NYSE,9.78,-0.1,-0.01,0,-99.1,8,60,B,-,B-,45
+FWAC,Fifth Wall Acq III Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0,0,0,0,8,55,B,-,C-,39
+FXCO,Financial Stratgs AcqClA,MISC,Finance-Blank Check,76,NASDAQ,9.85,0,0,51,-60.8,20,65,B,-,-,55
+FZT,FAST Acquisition II Cl A,MISC,Finance-Blank Check,76,NYSE,9.7,0,0,0,0,8,60,B,-,C-,43
+GACQ,Global Consumer Acq Cp,MISC,Finance-Blank Check,76,NASDAQ,9.92,-0.6,-0.06,250,883.9,8,72,B,-,B,53
+GAMC,Golden Arrow Merger Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,0.1,0.01,0,-99.8,8,60,B,-,E,30
+GAPA,G&P Acquisition Crp Cl A,MISC,Finance-Blank Check,76,NYSE,9.85,0.1,0.01,115,577.7,8,69,B,-,D,45
+GATE,Marblegate Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.81,0.2,0.02,93,-14.5,8,65,B,-,C,43
+GBRG,Goldenbridge Acq Ltd,MISC,Finance-Blank Check,76,NASDAQ,9.96,0,0,0,0,6,69,B,-,B,53
+GCAC,Growth Capital Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.99,-0.1,-0.01,362,273.3,2,72,B,-,B-,51
+GDNR,Gardiner Healthcare Acq,MISC,Finance-Blank Check,76,NASDAQ,9.83,0,0,319,116.4,8,65,B,-,-,46
+GEEX,Games & Esports ExpAqClA,MISC,Finance-Blank Check,76,NASDAQ,9.9,-1.4,-0.14,10,61.2,8,1,B,-,-,23
+GFGD,Growth For Good Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,0,-,0,0,0,-,1,B,-,-,0
+GFOR,Graf Acquisition Corp IV,MISC,Finance-Blank Check,76,NYSE,9.69,0,0,0,0,8,65,B,-,E,39
+GFX,Golden Falcon Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.78,0,0,29,-45.7,39,60,B,-,A-,64
+GGAA,Genesis Grw Tech Aq Cl A,MISC,Finance-Blank Check,76,NASDAQ,0,-,0,0,0,-,1,B,-,-,0
+GGGV,G3 VRM Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.02,0,0,0,0,8,72,B,-,B+,55
+GGMC,Glenfarne Merger Crp ClA,MISC,Finance-Blank Check,76,NASDAQ,9.7,0.1,0.01,2,-75.9,69,65,B,-,E,64
+GGPI,Gores Guggenheim Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.35,-1.1,-0.12,1629,-62.9,8,72,B,-,C-,39
+GHAC,Gaming & Hosp Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,-0.6,-0.06,0,-98.9,33,65,B,-,B+,63
+GIA,Gigcapital5 Inc,MISC,Finance-Blank Check,76,NYSE,9.92,0.2,0.02,306,530.7,8,65,B,-,D+,43
+GIAC,Gesher I Acquisition Cp,MISC,Finance-Blank Check,76,NASDAQ,9.8,1,0.1,0,-99.3,8,60,B,-,E,35
+GIIX,Gores Holdings VIII Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.93,-0.5,-0.05,12,-96,39,69,B,-,C,62
+GIW,GigInternational1 Inc,MISC,Finance-Blank Check,76,NASDAQ,9.96,0.3,0.03,1,-95.2,8,69,B,-,B,51
+GLAQ,Globis Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,10.15,0,0,0,0,4,69,B,-,B,52
+GLBL,Cartesian GrowthCrp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,-0.2,-0.02,373,548.2,8,69,B,-,C-,49
+GLEE,Gladstone Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.98,0,0,0,-95.9,8,69,B,-,C+,45
+GLHA,Glass Houses Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.67,0,0,0,0,8,60,B,-,E,37
+GLLI,Globalink Investment Inc,MISC,Finance-Blank Check,76,NASDAQ,9.83,0.1,0.01,7,-92.1,8,65,B,-,-,45
+GLTA,Galata Acquisition Cl A,MISC,Finance-Blank Check,76,AMEX,9.83,0.2,0.02,6,-52.2,8,65,B,-,A-,55
+GMBT,Queens Gambit GrwCp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,0.1,0.01,853,624.2,8,65,B,-,C-,43
+GNAC,Group Nine Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.76,0,0,0,0,8,55,B,-,B+,47
+GOAC,Go Acquisition Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.86,0.1,0.01,76,-46.5,47,60,B,-,A,69
+GOBI,Gobi Acquisition Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.62,0,0,0,0,8,55,B,-,C-,39
+GOGN,Gogreen Investments Cl A,MISC,Finance-Blank Check,76,NYSE,9.91,0.2,0.02,17,-70.9,8,65,B,-,-,44
+GPAC,Global Partner AcqIICl A,MISC,Finance-Blank Check,76,NASDAQ,9.76,0,0,0,-99.7,8,60,B,-,B-,45
+GPCO,Golden Path Acq Corp,MISC,Finance-Blank Check,76,NASDAQ,9.98,-0.3,-0.03,8,16.8,2,72,B,-,A-,51
+GRCY,Greencity Acq Corp,MISC,Finance-Blank Check,76,NASDAQ,10.34,0,0,9,230.2,69,72,B,-,D-,69
+GSAQ,Global Synergy Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,0,0,15,-47,33,65,B,-,B,62
+GSEV,Gores Holdings VII Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,-0.3,-0.03,44,-78.4,8,60,B,-,C-,43
+GSQB,G Squared Ascend II Cl A,MISC,Finance-Blank Check,76,NYSE,9.8,0,0,3,-88.1,8,65,B,-,C,44
+GSQD,G Squared Ascend I Cl A,MISC,Finance-Blank Check,76,NYSE,9.87,-0.3,-0.03,39,-36.3,8,69,B,-,D+,47
+GTAC,Global Techno Acq I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.9,0,0,0,0,8,69,B,-,-,47
+GTPA,Gores Tech Ptnr Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.79,0,0,0,0,8,52,B,-,B,46
+GTPB,Gores Tech Prtnr II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.79,0,0,0,0,8,60,B,-,B,49
+GVCI,Green VisorFinTchAcqIClA,MISC,Finance-Blank Check,76,NASDAQ,9.94,0,0,4,-93.3,8,69,B,-,-,48
+GWII,Good Works II Acqusition,MISC,Finance-Blank Check,76,NASDAQ,9.8,0.1,0.01,102,515.1,8,65,B,-,C,44
+GXII,GX Acquisition II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,0,0,0,0,39,60,B,-,D-,55
+HAAC,Health Assurance AcqCl A,MISC,Finance-Blank Check,76,NASDAQ,9.78,0,0,13,-88.4,39,44,B,-,D+,39
+HAIA,Healthcare AI Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.82,-0.2,-0.02,113,-5.9,1,1,B,-,-,24
+HCAR,Healthcare Svcs Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0,0,104,31.4,39,60,B,-,B-,59
+HCCC,Healthcare Capital Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.98,0.1,0.01,125,-51.2,39,69,B,-,B-,63
+HCIC,Hennessy Cap Invt V Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.77,-0.1,-0.01,29,-69.4,8,55,B,-,C+,42
+HCII,Hudson Exec Inv II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,0.1,0.01,70,118.2,8,60,B,-,B+,52
+HCNE,JAWS Hurricane Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,0,0,0,0,8,65,B,-,D+,42
+HCVI,Hennessy Cap Inv VI Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.65,0,0,0,0,8,60,B,-,B,46
+HERA,FTAC Hera Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0,0,0,-99.9,8,60,B,-,B,48
+HHGC,H H G Capital Corp,MISC,Finance-Blank Check,76,NASDAQ,9.93,0,0,0,0,20,65,B,-,A+,64
+HHLA,Hh&l Acquisition Co Cl A,MISC,Finance-Blank Check,76,NYSE,9.71,0.1,0.01,234,313.3,39,60,B,-,B+,64
+HIGA,H I G Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.83,0.2,0.02,3,-95.4,39,60,B,-,D,55
+HIII,Hudson Exct Inv III Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,-0.2,-0.02,60,-51.4,39,65,B,-,B-,61
+HLAH,Hamilton LaneAlln I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,0,0,0,0,39,60,B,-,B,62
+HLXA,Helix Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.9,-1,-0.1,36,-48,4,55,B,-,D+,38
+HMCO,Humanco Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.77,-0.1,-0.01,3,-95,8,52,B,-,C-,33
+HORI,Emerging Markets Hor ClA,MISC,Finance-Blank Check,76,NASDAQ,0,-,0,0,0,-,1,B,-,-,0
+HPLT,Home Plate Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,-0.2,-0.02,1,-97.8,8,65,B,-,A+,64
+HPX,H P X Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.89,0,0,96,204.3,17,60,B,-,B+,54
+HSAQ,Health Sciences Acq 2,MISC,Finance-Blank Check,76,NASDAQ,9.86,0,0,21,-72.4,27,48,B,-,B+,45
+HTAQ,Hunt Companies Acq I ClA,MISC,Finance-Blank Check,76,NYSE,9.94,0,0,0,0,8,69,B,-,-,47
+HTPA,Highland TrnsndPrt I ClA,MISC,Finance-Blank Check,76,NYSE,9.92,0,0,16,-67.9,8,60,B,-,C-,42
+HUGS,U S H G Acq Corp Cl A,MISC,Finance-Blank Check,76,NYSE,10.31,-0.4,-0.05,201,-12.4,8,79,B,-,B-,57
+HWEL,Healthwell Acq Cp I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.61,0,0,0,0,8,65,B,-,D-,41
+HWKZ,Hawks Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.75,0,0,0,0,8,65,B,-,A,57
+HYAC,Haymaker Acq Crp III ClA,MISC,Finance-Blank Check,76,NASDAQ,9.86,0.1,0.01,21,-81.5,8,65,B,-,B+,53
+HZON,Horizon Acq Corp II Cl A,MISC,Finance-Blank Check,76,NYSE,9.82,-0.2,-0.02,16,-92.3,39,55,B,-,B,58
+IACC,ION Acq Corp 3 Ltd ClA,MISC,Finance-Blank Check,76,NYSE,9.76,0,0,0,0,8,60,B,-,D+,40
+IBER,Ibere Pharma Cl A,MISC,Finance-Blank Check,76,NYSE,9.74,-0.7,-0.07,3,-72.9,8,69,B,-,B+,58
+ICNC,Iconic Sports Acq Cp ClA,MISC,Finance-Blank Check,76,NYSE,9.92,-0.2,-0.02,6,-81.7,8,69,B,-,-,48
+IFIN,Infint Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.92,0.1,0.01,19,-78.5,8,69,B,-,-,48
+IGAC,IG Acquisition Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.8,-0.4,-0.04,4,-90,39,60,B,-,C+,59
+IGNY,Ignyte Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,9.77,0,0,0,0,8,65,B,-,B,50
+IGTA,Inception Growth Acq Ltd,MISC,Finance-Blank Check,76,NASDAQ,9.78,0.1,0.01,17,-75.4,8,65,B,-,-,45
+IIII,INSU Acq Corp III Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.8,0,0,0,0,8,55,B,-,C,41
+IMAQ,International Media Acq,MISC,Finance-Blank Check,76,NASDAQ,9.86,0.1,0.01,20,10.7,8,72,B,-,B+,55
+IMPX,AEA-Bridges Impact Cl A,MISC,Finance-Blank Check,76,NYSE,9.86,-0.1,-0.01,9,-98.4,39,60,B,-,B,61
+INAQ,Insight Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.73,0.2,0.02,200,389.8,8,65,B,-,E,33
+INKA,KludeIn I Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,0.1,0.01,22,-45.2,39,65,B,-,B,64
+INTE,Integral Acq Cp 1 Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.8,-0.4,-0.04,11,-49.4,8,65,B,-,-,43
+IOAC,Innovative IntAq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.93,-0.1,-0.01,12,-50.6,8,69,B,-,-,48
+IPAX,Inflection Point Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,9.65,0,0,0,0,8,65,B,-,D+,43
+IPOD,Social Cap Hedo IV Cl A,MISC,Finance-Blank Check,76,NYSE,9.89,0.3,0.03,134,-61.1,39,31,B,-,D-,34
+IPOF,Social CapHedosp VI Cl A,MISC,Finance-Blank Check,76,NYSE,9.95,0.6,0.06,957,-40.5,39,33,B,-,D-,34
+IPVA,Interprivate II Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.69,-0.2,-0.02,0,-95.4,8,60,B,-,C+,41
+IPVF,Interprivate III Fin ClA,MISC,Finance-Blank Check,76,NYSE,9.93,-0.2,-0.02,0,-99.2,8,69,B,-,B+,54
+IPVI,Interprivate IV InfraClA,MISC,Finance-Blank Check,76,NASDAQ,9.75,0,0,0,0,8,65,B,-,B+,50
+IQMD,Intelligent Medi Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,9.94,0.2,0.02,1,-98,8,69,B,-,-,45
+IRRX,IntegratedRlndRsAqCpCl A,MISC,Finance-Blank Check,76,NYSE,9.88,0.1,0.01,140,53.7,8,69,B,-,-,48
+ISAA,Iron Spark I Inc Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.98,0.2,0.02,1,-93.8,8,65,B,-,C+,46
+ISLE,Isleworth Healthcare Acq,MISC,Finance-Blank Check,76,NASDAQ,9.85,0.1,0.01,16,-23.1,8,65,B,-,B,53
+ITHX,Ithax Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.83,0.4,0.04,50,-5.1,8,69,B,-,C-,47
+ITQ,Itiquira Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,0.2,0.02,5,-84.2,69,60,B,-,D,66
+IVAN,Ivanhoe Capital Acq Cl A,MISC,Finance-Blank Check,76,NYSE,7.84,-3.6,-0.29,187,-71,39,23,B,-,E,33
+IXAQ,IX Acquisition Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,0,0,0,0,8,55,B,-,D+,39
+JAQC,Jupiter Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.6,0,0,0,0,39,60,B,-,B-,60
+JATT,JATT Acquisition Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.84,0,0,0,0,8,69,B,-,B+,53
+JCIC,Jack Creek Invstmnt Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,-0.4,-0.04,2,-94.7,8,65,B,-,A-,58
+JMAC,Maxpro Capital Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.95,0,0,0,0,8,69,B,-,A+,62
+JOFF,JOFF Fintech Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0.1,0.01,1,-98.8,8,65,B,-,D,43
+JUGG,Jaws Juggernaut Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,-0.3,-0.03,6,-51.2,8,65,B,-,B+,54
+JUN,Juniper II Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.84,-0.3,-0.03,1,-98.9,8,69,B,-,-,47
+JWAC,Jupiter Wellness Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,9.87,0,0,0,0,8,65,B,-,-,45
+JWSM,Jaws Mustang Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.76,0.1,0.01,1003,418.4,8,60,B,-,D,42
+JYAC,Jiya Acquisition Crp ClA,MISC,Finance-Blank Check,76,NASDAQ,9.81,0,0,0,0,28,60,B,-,B-,56
+KACL,Kairous Acq Crp Ltd,MISC,Finance-Blank Check,76,NASDAQ,9.84,0.1,0.01,12,-87.8,8,65,B,-,-,46
+KAHC,KKR Acq Hldgs I Cl A,MISC,Finance-Blank Check,76,NYSE,9.73,0.1,0.01,14,-91,8,60,B,-,B+,50
+KAII,Kismet Acq Two Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,0,0,0,0,39,60,B,-,B,62
+KAIR,Kairos Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.78,0,0,0,0,39,65,B,-,A-,67
+KAVL,Kaival Brands Innovation,MISC,Finance-Blank Check,76,NASDAQ,0.63,-9.4,-0.07,177,-79.9,8,1,B,D,B,14
+KCGI,Kensington Cap Acq V ClA,MISC,Finance-Blank Check,76,NYSE,9.88,0.2,0.02,1991,3171,8,65,B,-,C,44
+KIII,Kismet Acq Three Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,0,0,11,-45.8,39,65,B,-,C,60
+KINZ,KINS Technology Gp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.99,-0.1,-0.01,0,-98.9,39,65,B,-,C,60
+KLAQ,KL Acquisition Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0.3,0.03,15,-34.2,39,60,B,-,B,63
+KRNL,Kernel Group Hldgs Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,0,0,0,0,8,65,B,-,B-,51
+KSI,Kadem Sustainable Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.68,0.1,0.01,2,-82.7,8,65,B,-,B-,48
+KVSA,Khosla Ventures Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0.2,0.02,40,-65.6,8,52,B,-,B,41
+KVSC,Khosla Vent Acq III Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,0,0,22,-84.9,8,55,B,-,B,43
+KWAC,Kingswood Acq Corp Cl A,MISC,Finance-Blank Check,76,NYSE,10.15,-0.1,-0.01,0,-99.2,4,65,B,-,B,51
+LAAA,Lakeshore Acq I Cp,MISC,Finance-Blank Check,76,NASDAQ,9.91,0,0,0,0,8,72,B,-,B,53
+LAX,8i Acquisition 2 Corp,MISC,Finance-Blank Check,76,NASDAQ,9.77,0.2,0.02,1,-98,8,69,B,-,-,50
+LCA,Landcadia Hldgs IV Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,-0.2,-0.02,0,-99.8,8,60,B,-,B,46
+LCAA,L Catterton AsiaAcq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.69,0,0,0,0,8,60,B,-,D-,38
+LCAP,Lionheart Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.03,-0.1,-0.01,54,-54.1,33,69,B,-,B+,64
+LCW,Learn CW Investment Cl A,MISC,Finance-Blank Check,76,NYSE,9.75,0,0,0,0,8,55,B,-,C-,39
+LDHA,LDH Growth Corp I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0,0,0,0,8,60,B,-,D-,42
+LEAP,Ribbit Leap Ltd Cl A,MISC,Finance-Blank Check,76,NYSE,9.85,-0.2,-0.02,46,-48.7,39,32,B,-,D,35
+LEGA,Lead Edge Growth Opp ClA,MISC,Finance-Blank Check,76,NASDAQ,9.68,0,0,0,0,8,60,B,-,C,45
+LFAC,LF Capital Acq II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.95,-0.4,-0.04,3,-90.3,8,69,B,-,-,48
+LFTR,Lefteris Acquisition ClA,MISC,Finance-Blank Check,76,NASDAQ,9.81,0.1,0.01,4,-92.7,39,60,B,-,B,59
+LGAC,Lazard Growth Acq I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,-0.1,-0.01,20,-81.3,8,60,B,-,B+,51
+LGST,Semper Partus Aq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.93,-4.3,-0.45,15,-64.4,8,81,B,-,-,54
+LGTO,Legato Merger Corp II,MISC,Finance-Blank Check,76,NASDAQ,9.85,-0.1,-0.01,5,-93.6,8,69,B,-,-,48
+LGV,Longview Acq II Cl A,MISC,Finance-Blank Check,76,NYSE,9.73,0.1,0.01,216,20.2,8,55,B,-,D,40
+LGVC,Lamf Global VenturesIClA,MISC,Finance-Blank Check,76,NASDAQ,9.88,0,0,0,0,8,69,B,-,-,47
+LHAA,Lerer Hippeau Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.67,-0.5,-0.05,2,-95.6,8,55,B,-,C,40
+LHC,Leo Holdings II Cl A,MISC,Finance-Blank Check,76,NYSE,9.74,-0.3,-0.03,4,-89.9,39,65,B,-,B,63
+LIBY,Liberty Resources AcqClA,MISC,Finance-Blank Check,76,NASDAQ,9.92,0,0,4,-96.4,8,69,B,-,-,48
+LION,Lionheart III Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.89,0.1,0.01,0,-99.5,8,65,B,-,-,43
+LITT,Logistics Innov Tech ClA,MISC,Finance-Blank Check,76,NASDAQ,9.7,0,0,0,0,8,65,B,-,B,50
+LJAQ,Lightjump Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.87,0,0,0,0,39,65,B,-,C,60
+LMACA,Liberty Media Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.08,0,0,252,94.7,8,52,B,-,D-,37
+LMAO,LMF Acq Opp Inc Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.04,0,0,0,0,8,69,B,-,C+,50
+LNFA,L & F Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,10.05,-0.1,-0.01,4,-95.2,39,65,B,-,B+,65
+LOCC,Live Oak Crestvw Clm ClA,MISC,Finance-Blank Check,76,NYSE,9.67,-0.3,-0.03,1,-98.1,8,65,B,-,B+,53
+LOKM,Live Oak Mobility Aq ClA,MISC,Finance-Blank Check,76,NYSE,9.72,0,0,10,-54.8,8,60,B,-,E,35
+LUXA,Lux Health Tech Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,0.3,0.03,46,-41.4,39,52,B,-,C-,47
+LVAC,Lava Medtech Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.92,-0.2,-0.02,2,-78,8,65,B,-,-,45
+LVRA,Levere Holdings Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,-0.1,-0.01,0,-99.6,8,60,B,-,B,46
+MAAQ,Mana Capital Acquisition,MISC,Finance-Blank Check,76,NASDAQ,9.85,0.2,0.02,32,-59.2,8,65,B,-,-,46
+MACA,Moringa Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,0,0,0,0,20,65,B,-,B,57
+MACC,Mission Advancement Cl A,MISC,Finance-Blank Check,76,NYSE,9.72,0.1,0.01,0,-99.8,8,65,B,-,B,53
+MACU,Mallard Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,10.04,0.1,0.02,0,-99.2,69,65,B,-,B+,74
+MAQC,Maquia Capital Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.06,0.1,0.01,8,-92.2,8,69,B,-,E,39
+MBAC,M3-Brigade Acq II Cl A,MISC,Finance-Blank Check,76,NYSE,9.98,-0.1,-0.01,252,22.7,8,72,B,-,B+,58
+MBSC,M3-Brigade Acq III Cl A,MISC,Finance-Blank Check,76,NYSE,9.94,0,0,0,0,8,75,B,-,-,50
+MBTC,Nocturne Acquisition Crp,MISC,Finance-Blank Check,76,NASDAQ,10.04,0,0,0,0,8,72,B,-,B+,58
+MCAA,Mountain & Co I Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10,-0.1,-0.02,1,-96.7,8,65,B,-,-,46
+MCAE,Mountain Crest Acq III,MISC,Finance-Blank Check,76,NASDAQ,9.91,0,0,12,-59.6,8,69,B,-,B,53
+MCAF,Mountain Crest Acq Cp IV,MISC,Finance-Blank Check,76,NASDAQ,9.88,-0.1,-0.01,0,-98.9,8,72,B,-,A,59
+MCAG,Mountain Crest Acq V,MISC,Finance-Blank Check,76,NASDAQ,9.76,-0.1,-0.01,20,-67.4,8,69,B,-,-,48
+MCMJ,Merida Merger Corp I,MISC,Finance-Blank Check,76,NASDAQ,6.7,2.6,0.17,130,-57.6,13,15,B,-,D-,21
+MDH,Mdh Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.77,0.4,0.04,97,85.4,39,60,B,-,D+,57
+MEAC,Mercury Ecommerce AcqClA,MISC,Finance-Blank Check,76,NASDAQ,9.86,0,0,0,0,8,69,B,-,D+,42
+MEKA,Meli Kaszek Pioneer Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.2,-0.1,-0.01,796,861.5,8,30,B,-,D,25
+MEOA,Minority Eqy Opp Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,10.08,1.1,0.11,0,-97,8,65,B,-,B,50
+MIT,Mason Industrial TechClA,MISC,Finance-Blank Check,76,NYSE,9.71,-0.5,-0.05,0,-99.8,39,65,B,-,E,55
+MITA,Coliseum Acquisition ClA,MISC,Finance-Blank Check,76,NASDAQ,9.67,0.5,0.05,11,-39.9,8,52,B,-,D-,37
+MLAC,Malacca Straits Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.1,0.2,0.02,4,-89,33,69,B,-,A,68
+MLAI,Mclaren Tech Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.92,0,0,12,-84.4,8,69,B,-,-,47
+MNTN,Everest Consolid Acq ClA,MISC,Finance-Blank Check,76,NYSE,9.91,0,0,0,0,8,69,B,-,-,48
+MON,Monument Circle Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,-0.3,-0.03,0,-99.2,39,65,B,-,D-,57
+MOTV,Motive Capital Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.92,0.1,0.01,115,29.1,4,60,B,-,C+,43
+MPAC,Model Prfrmnce Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.06,0.3,0.03,127,414.3,8,69,B,-,D,41
+MPRA,Mercato Partners Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,9.84,-0.5,-0.05,1,-87.3,8,69,B,-,-,48
+MSAC,Medicus Sciences Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,9.7,-0.2,-0.02,0,-97.9,8,60,B,-,B+,52
+MSDA,Msd Acquisition Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.78,0,0,0,-99.1,8,60,B,-,C-,40
+MTAC,Medtech Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.89,-0.2,-0.02,37,-10.3,47,60,B,-,C+,61
+MTAL,Metals Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.69,0,0,0,0,8,65,B,-,C+,44
+MTRY,Monterey Bio Acq Corp,MISC,Finance-Blank Check,76,NASDAQ,9.92,0,0,0,0,20,65,B,-,E,39
+MTVC,Motive Capital Cp II ClA,MISC,Finance-Blank Check,76,NYSE,9.82,0,0,0,-99.6,8,1,B,-,-,26
+MUDS,Mudrick Capital Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.98,0.1,0.01,9,-87.8,39,33,B,-,D-,33
+NAAC,North Atlantic Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.83,0,0,291,133.8,8,69,B,-,B-,53
+NBST,Newbury Street Acq Corp,MISC,Finance-Blank Check,76,NASDAQ,9.65,0,0,0,0,8,60,B,-,D,40
+NCAC,Newcourt Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.95,0,0,0,0,8,69,B,-,-,48
+NDAC,Nightdragon Acq Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,-0.3,-0.03,1,-97.8,8,60,B,-,B,46
+NETC,Nabors Energy Trans Cl A,MISC,Finance-Blank Check,76,NYSE,9.92,0,0,0,0,8,65,B,-,-,45
+NFNT,Infinite Acquisition ClA,MISC,Finance-Blank Check,76,NYSE,9.78,-0.3,-0.03,3,-92.1,8,65,B,-,-,44
+NFYS,Enphys Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.65,0.1,0.01,1,-94.8,8,48,B,-,E,30
+NGC,Northern Genesis Acq III,MISC,Finance-Blank Check,76,NYSE,9.76,0.2,0.02,0,-99.2,8,60,B,-,D+,40
+NHIC,Newhold Inv Crp II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0,0,0,0,8,69,B,-,-,48
+NLIT,Northern Lights Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.06,0,0,1,-79.3,8,69,B,-,A+,60
+NMMC,North Mountain Merg Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.89,0.2,0.02,3,-97.2,39,60,B,-,A,66
+NOAC,Natural Order Acq Corp,MISC,Finance-Blank Check,76,NASDAQ,9.77,-0.3,-0.03,68,80.3,39,52,B,-,B,58
+NOVV,Nova Vision Acquisition,MISC,Finance-Blank Check,76,NASDAQ,9.96,0,0,0,0,8,69,B,-,B,53
+NPAB,New Providence AcqII ClA,MISC,Finance-Blank Check,76,NASDAQ,9.85,0,0,0,0,8,77,B,-,-,52
+NRAC,Noble Rock Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,-0.1,-0.01,156,353.6,8,65,B,-,B-,51
+NSTB,Northern Star Inv II ClA,MISC,Finance-Blank Check,76,NYSE,9.75,0.2,0.02,8,-97.6,8,48,B,-,B,42
+NSTC,Northern Star InvIII ClA,MISC,Finance-Blank Check,76,NYSE,9.71,0,0,0,0,8,60,B,-,C-,41
+NSTD,Northern Star Inv IV ClA,MISC,Finance-Blank Check,76,NYSE,9.72,0,0,0,0,8,65,B,-,D+,42
+NVAC,Northview Acquisition Cp,MISC,Finance-Blank Check,76,NASDAQ,9.77,0,0,22,-94.1,8,69,B,-,-,48
+NVSA,New Vista Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,0.1,0.01,2,-94.3,8,60,B,-,D,42
+NXU,Novus Capital II Cl A,MISC,Finance-Blank Check,76,NYSE,9.97,-0.1,-0.01,202,8.9,39,72,B,-,B,67
+OACB,Oaktree Acq Corp II Cl A,MISC,Finance-Blank Check,76,NYSE,9.9,-0.1,-0.01,30,-81.8,39,55,B,-,B,59
+OCA,Omnichannel Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.93,0.1,0.01,50,-85.5,39,65,B,-,C-,58
+OCAX,OCA Acquisition Corp ClA,MISC,Finance-Blank Check,76,NASDAQ,10.02,0.3,0.03,33,-7,39,69,B,-,B+,68
+OEPW,One Equity Ptnrs Opn Wtr,MISC,Finance-Blank Check,76,NASDAQ,9.71,-0.4,-0.04,135,160.5,8,65,B,-,B,53
+OHAA,Opy Acquisition I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,0,0,0,0,8,65,B,-,-,45
+OHPA,Orion Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,0.2,0.02,18,-51.6,8,60,B,-,C-,42
+OLIT,Omnilit Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.9,-0.3,-0.03,3,-82.8,8,1,B,-,-,27
+OMEG,Omega Alpha Spac Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,0,0,0,0,8,52,B,-,D-,37
+ONYX,Onyx Acquisition I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.94,0.3,0.03,0,-99.8,8,65,B,-,-,46
+OPA,Magnum Opus Acq Ltd Cl A,MISC,Finance-Blank Check,76,NYSE,9.97,0,0,0,-98.7,8,72,B,-,D,44
+ORIA,Orion Biotech Opp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.68,0.4,0.04,2,-88.9,8,60,B,-,D,38
+OSI,Osiris Acq Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.67,0,0,0,0,8,60,B,-,C,44
+OSTR,Oyster Ent Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,0,0,13,-65.5,8,65,B,-,B,52
+OTEC,Oceantech Acq I Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,10,-0.1,-0.01,10,267.3,8,72,B,-,B-,52
+OTRA,Otr Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.16,0,0,0,0,39,65,B,-,A,70
+OXAC,Oxbridge Acquisition ClA,MISC,Finance-Blank Check,76,NASDAQ,9.9,0,0,0,0,8,65,B,-,D-,40
+OXUS,Oxus Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.89,-0.1,-0.01,0,-97.9,8,65,B,-,D+,42
+PACI,Proof Acq Corp I Cl A,MISC,Finance-Blank Check,76,NYSE,9.83,-0.9,-0.09,0,-98.1,8,69,B,-,-,48
+PACX,Pioneer Merger Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.77,0,0,44,-67.6,8,55,B,-,E,39
+PAFO,Pacifico Acquisition Cp,MISC,Finance-Blank Check,76,NASDAQ,9.92,0,0,0,0,8,69,B,-,A+,58
+PANA,Panacea Acq Corp II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.68,0.4,0.04,21,-22.4,8,52,B,-,C-,38
+PAQC,Provident Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0.1,0.01,57,63.9,69,60,B,-,B-,71
+PBAX,Phoenix Biotech Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.92,0,0,0,0,1,65,B,-,C+,42
+PCCT,Perception Cap II ClA,MISC,Finance-Blank Check,76,NASDAQ,9.95,0,0,9,-80,8,65,B,-,-,46
+PCPC,Periphas Capt Ptrng Cl A,MISC,Finance-Blank Check,76,NYSE,24.49,0,0,0,0,39,65,B,-,B-,62
+PCX,Parsec Capital Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.95,0,0,11,-73.5,8,69,B,-,-,48
+PDOT,Peridot Acq Corp II Cl A,MISC,Finance-Blank Check,76,NYSE,9.7,-0.3,-0.03,34,-12,8,65,B,-,B,49
+PEGR,Project EnergyReimgndClA,MISC,Finance-Blank Check,76,NASDAQ,9.68,0,0,0,0,8,69,B,-,-,47
+PEPL,Pepperlime Hlth Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,-0.4,-0.04,0,-99.6,8,65,B,-,-,36
+PFDR,Pathfinder Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,-0.4,-0.04,145,-23.7,8,55,B,-,A,54
+PFTA,Portage Fintech Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.65,0,0,79,118.7,8,65,B,-,E,38
+PGRW,Progress Acquisition ClA,MISC,Finance-Blank Check,76,NASDAQ,9.79,-0.2,-0.02,0,-99.5,8,65,B,-,B,51
+PGSS,Pegasus Digi Mob Acq ClA,MISC,Finance-Blank Check,76,NYSE,9.84,0.5,0.05,1,-98,8,65,B,-,-,45
+PHIC,Population Hlth Inv Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.83,0,0,0,0,39,55,B,-,C+,57
+PHYT,Pyrophyte Acq Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.97,0.2,0.02,0,-100,8,69,B,-,-,47
+PIAI,Prime Impact Acq I Cl A,MISC,Finance-Blank Check,76,NYSE,9.83,-0.2,-0.02,5,-86.2,39,60,B,-,B-,60
+PICC,Pivotal Inv Corp III ClA,MISC,Finance-Blank Check,76,NYSE,9.72,0,0,0,0,8,60,B,-,C-,43
+PIPP,Pine Island Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.79,0.1,0.01,48,-70.7,39,44,B,-,D,41
+PLMI,Plum Acquisition I CL A,MISC,Finance-Blank Check,76,NASDAQ,9.7,0.1,0.01,14,-9.6,8,60,B,-,D-,39
+PMGM,Priveterra Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,0.1,0.01,4,-87.5,8,65,B,-,C-,45
+PMVC,Pmv Consumer Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.82,-0.2,-0.02,1,-72.1,39,60,B,-,B,62
+PNTM,Pontem Corporation Cl A,MISC,Finance-Blank Check,76,NYSE,9.75,-0.2,-0.02,3,-97.7,8,65,B,-,B,52
+POND,Angel Pond Hldgs Cp ClA,MISC,Finance-Blank Check,76,NYSE,9.84,-0.1,-0.01,34,-76.4,8,72,B,-,B,54
+PONO,Pono Capital Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.99,0,0,0,0,8,65,B,-,D-,41
+PORT,Southport Acq Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.85,0,0,0,0,1,65,B,-,-,0
+POW,Powered Brands Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.77,-0.1,-0.01,3,-94.3,8,65,B,-,B-,47
+PPGH,Poema Global Hldgs Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.92,-0.1,-0.01,24,-80.2,4,69,B,-,B+,55
+PPHP,PHP Ventures Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.94,0,0,0,0,8,69,B,-,B,52
+PRBM,Parabellum Acq Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.77,0.1,0.01,0,-95.3,8,65,B,-,D-,40
+PRPB,Cc Neuberger Prin II ClA,MISC,Finance-Blank Check,76,NYSE,9.94,0.1,0.01,168,-72.2,33,60,B,-,D,51
+PRPC,Cc Neuberger PrinIII ClA,MISC,Finance-Blank Check,76,NYSE,9.74,-0.1,-0.01,48,-57,8,60,B,-,B+,50
+PRSR,Prospector Capital Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,-0.4,-0.04,10,-79.9,20,60,B,-,B+,55
+PSAG,Property Sol Acq II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,0,0,0,-99.3,8,60,B,-,B-,45
+PSPC,Post Holdings Ptrng Cl A,MISC,Finance-Blank Check,76,NYSE,9.65,-0.6,-0.06,0,-90.2,8,60,B,-,D+,40
+PSTH,Pershing Sq Tontine Cl A,MISC,Finance-Blank Check,76,NYSE,19.85,-0.1,-0.02,548,-49.3,69,33,B,-,D,45
+PTIC,Proptech Inv Crp II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.78,0,0,0,0,39,60,B,-,B+,63
+PTOC,Pine Technology Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.89,0,0,93,-17.2,8,72,B,-,E,42
+PUCK,Goal Acquisitions Corp,MISC,Finance-Blank Check,76,NASDAQ,9.71,0,0,35,53.7,8,65,B,-,B-,51
+PV,Primavera Cap Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.75,0,0,0,0,39,60,B,-,B-,60
+QFTA,Quantum Fintech Acq Corp,MISC,Finance-Blank Check,76,NYSE,9.88,0,0,95,61.1,8,69,B,-,A,59
+RACB,Research AllianceII Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.78,0,0,0,0,20,52,B,-,D+,42
+RAM,Aries I Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.99,0,0,70,-27.2,8,65,B,-,E,39
+RBAC,Redball Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.92,-0.1,-0.01,24,-94,69,55,B,-,B-,67
+RCFA,Rcf Acquisition Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.82,0,0,0,-98.2,8,65,B,-,-,44
+RCHG,Recharge Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.92,-0.1,-0.01,0,-99.1,33,65,B,-,B,61
+RCLF,Rosecliff Acq Corp I ClA,MISC,Finance-Blank Check,76,NASDAQ,9.84,-0.1,-0.01,64,11.2,8,69,B,-,C-,44
+REVE,Alpine Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,10.04,0,0.01,6,-54.5,8,69,B,-,B+,56
+REVH,Revolution Hlth Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0.1,0.01,1,-96.5,8,60,B,-,B,45
+RICO,Agrico Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.09,0,0,0,0,8,69,B,-,A-,56
+RJAC,Jackson Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.7,0,0,0,0,1,65,B,-,-,0
+RKTA,Rocket Internet GrOp ClA,MISC,Finance-Blank Check,76,NYSE,9.71,0,0,0,0,8,60,B,-,D+,40
+RMGC,R M G Acq Corp III Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.77,0,0,0,0,8,65,B,-,B+,55
+RNER,Mount Rainier Acq Cp,MISC,Finance-Blank Check,76,NASDAQ,9.9,-0.2,-0.02,32,-72.1,8,69,B,-,-,48
+ROC,Roc Energy AcquisitionCp,MISC,Finance-Blank Check,76,NASDAQ,9.89,-0.2,-0.02,1,-97.4,8,69,B,-,-,48
+ROCG,Roth Ch Acquisition IV,MISC,Finance-Blank Check,76,NASDAQ,9.91,0,0,0,0,27,69,B,-,B-,60
+ROCL,Roth CH Acquisition V Co,MISC,Finance-Blank Check,76,NASDAQ,9.78,0,0,538,1046.3,8,60,B,-,-,45
+ROCR,Roth CH Acquisition III,MISC,Finance-Blank Check,76,NASDAQ,9.98,0.1,0.01,76,46.7,4,69,B,-,B-,49
+RONI,Rice Acquisition II Cl A,MISC,Finance-Blank Check,76,NYSE,9.84,-0.4,-0.04,2,-94.4,8,65,B,-,B-,45
+ROSE,Rose Hill Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.96,0,0,0,0,8,69,B,-,-,48
+ROSS,Ross Acq Corp II Cl A,MISC,Finance-Blank Check,76,NYSE,9.7,0,0,25,-65.3,8,60,B,-,E,37
+RRAC,Rigel Resource Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.9,0,0,0,0,8,69,B,-,-,46
+RVAC,Riverview Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.76,-0.1,-0.01,1,-96.7,8,69,B,-,C+,48
+RXRA,RXR Acquisition Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.72,0.2,0.02,3,-88.2,8,60,B,-,D-,39
+SAMA,Schultze SplPrpsAcqIIClA,MISC,Finance-Blank Check,76,NASDAQ,9.71,-0.5,-0.05,1,-97.2,8,60,B,-,B,37
+SANB,Sanaby Health Acq I,MISC,Finance-Blank Check,76,NASDAQ,10,0.3,0.03,0,-99.3,8,69,B,-,A+,60
+SBEA,Silverbox EngMrgr I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.34,-4.3,-0.42,443,-40,8,44,B,-,E,25
+SBII,Sandbridge X2 Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.7,0,0,0,0,8,60,B,-,B,47
+SCAQ,Stratim Cloud Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.68,-0.5,-0.05,55,256.4,39,65,B,-,B+,66
+SCLE,Broadscale Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,0.3,0.03,239,32.5,8,65,B,-,C+,44
+SCMA,Seaport Calibre MtrlsClA,MISC,Finance-Blank Check,76,NASDAQ,9.9,0,0,0,0,1,65,B,-,-,42
+SCOA,Scion Tech Growth I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.79,0,0,3,-97,8,60,B,-,B,46
+SCOB,Scion Tech Grw II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,0,0,0,0,8,60,B,-,A-,52
+SCUA,Sculptor Acq Cp I Cl A,MISC,Finance-Blank Check,76,NYSE,9.81,0.1,0.01,5,-89.4,1,65,B,-,-,0
+SCVX,Scvx Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.89,0.1,0.01,0,-99.5,59,55,B,-,B+,68
+SDAC,Sustainable Dvlp I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.79,0.8,0.08,59,-26.9,8,65,B,-,B-,50
+SEDA,Sdcl Edge Acq Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.66,0,0,0,0,8,65,B,-,-,45
+SGII,Seaport Glbl Acq II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,-0.1,-0.01,0,-97.5,8,65,B,-,-,43
+SHAC,Scp & Co Hlthcr Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,0.2,0.02,0,-98,39,65,B,-,C+,61
+SHCA,Spindletop Health AcqClA,MISC,Finance-Blank Check,76,NASDAQ,9.95,0.3,0.03,1,-97.5,8,81,B,-,-,52
+SHQA,Shelter Acq Cp I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0,0,0,0,8,55,B,-,C+,44
+SIER,Sierra Lake Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.8,0,0,0,0,8,69,B,-,B-,50
+SKYA,Skydeck Acquistn Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0,0,0,0,8,65,B,-,E,37
+SLAC,Social Leverage Aq I ClA,MISC,Finance-Blank Check,76,NYSE,9.72,0,0,0,0,8,65,B,-,B,53
+SLAM,Slam Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,0,0,0,0,8,60,B,-,B-,49
+SLCR,Silver Crest AcqCrp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.77,-0.1,-0.01,80,83.2,39,65,B,-,C-,59
+SLVR,Silverspac Inc Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.6,0,0,7,-6.4,8,55,B,-,E,33
+SMAP,Sportsmap Tech Acq Cp,MISC,Finance-Blank Check,76,NASDAQ,9.88,0,0,0,0,1,65,B,-,A+,60
+SMIH,Summit Healthcare AcqClA,MISC,Finance-Blank Check,76,NASDAQ,9.65,0,0,5,-6.5,8,69,B,-,C-,49
+SNII,Supernova Prtns Aq IIClA,MISC,Finance-Blank Check,76,NYSE,9.97,-0.1,-0.01,224,-56.9,8,65,B,-,E,39
+SNRH,Senior Connect Acq I ClA,MISC,Finance-Blank Check,76,NASDAQ,9.76,-0.3,-0.03,62,-51.6,39,60,B,-,C,58
+SPAQ,Spartan Acq Corp III ClA,MISC,Finance-Blank Check,76,NYSE,9.94,0.1,0.01,493,120.8,8,69,B,-,B+,57
+SPGS,Simon Ppty Grp Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.73,-0.1,-0.01,4,-80.6,39,60,B,-,B-,60
+SPK,Spk Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,9.95,0,0,0,0,8,42,B,-,A+,50
+SPKB,Silver Spike Acq II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.8,-0.1,-0.01,99,-48.9,39,65,B,-,B+,66
+SPTK,Sportstek Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,0,0,0,0,8,60,B,-,C-,43
+SRSA,Sarissa Capital Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.86,0.7,0.07,0,-97.2,39,52,B,-,A-,60
+SSAA,Science Strat Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.76,0,0,9,-88.3,8,65,B,-,A-,57
+STET,St Energy Trans I LtdClA,MISC,Finance-Blank Check,76,NYSE,9.76,0,0,0,0,8,69,B,-,-,47
+STRE,Supernova Ptnrs III Cl A,MISC,Finance-Blank Check,76,NYSE,9.72,0,0,20,-28.6,8,60,B,-,B-,47
+SUAC,Shoulderup Tech Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.86,0,0,0,0,8,69,B,-,-,47
+SV,Spring Valley Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.03,0.2,0.02,390,49.8,4,60,B,-,B-,42
+SVFA,SVF Investment Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.78,0.1,0.01,156,-55,8,42,B,-,C-,32
+SVFB,Svf Investment 2 Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.78,0,0,0,0,8,48,B,-,B,42
+SVFC,Svf Investment 3 Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.9,0.3,0.03,75,-63.9,8,55,B,-,B-,44
+SVNA,7 Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.91,0,0,0,0,8,69,B,-,-,48
+SWAG,Software Acq Grp III ClA,MISC,Finance-Blank Check,76,NASDAQ,9.87,-0.1,-0.01,2,-92.4,8,65,B,-,C+,46
+SWET,Athlon Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,0.1,0.01,32,-4.9,8,65,B,-,C-,43
+SWSS,Springwater Spl Situatns,MISC,Finance-Blank Check,76,NASDAQ,9.79,0,0,17,-46.9,8,65,B,-,C+,45
+SZZL,Sizzle Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,0,-,0,0,0,-,1,B,-,-,0
+TACA,Trepont Acq Corp I Cl A,MISC,Finance-Blank Check,76,NYSE,10.02,0,0,0,0,39,65,B,-,B,63
+TBCP,ThunderBrdgCpPtnrsIIIClA,MISC,Finance-Blank Check,76,NASDAQ,9.73,0,0,0,0,33,65,B,-,D+,57
+TBSA,TB SA Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.7,0,0,0,0,8,65,B,-,B-,49
+TCAC,Tuatara Capital Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,-0.1,-0.01,12,-80.4,69,72,B,-,B,75
+TCOA,Trajectory Alpha Acq ClA,MISC,Finance-Blank Check,76,NYSE,9.84,0.4,0.04,0,10.2,1,65,B,-,-,0
+TCVA,TCV Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,0.5,0.05,57,-18.1,8,48,B,-,E,33
+TEKK,Tekkorp Digital Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.81,0.1,0.01,90,89.7,39,60,B,-,A-,64
+TETC,Tech and Energy TransClA,MISC,Finance-Blank Check,76,NASDAQ,9.7,0,0,97,379.2,8,65,B,-,C+,47
+TGAA,Target Global Acq I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.82,0.2,0.02,250,8.4,1,1,B,-,-,24
+TGVC,Tg Venture Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.84,0,0,0,0,8,65,B,-,C,44
+THAC,Thrive Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.96,-0.2,-0.02,3,-87.9,8,69,B,-,-,48
+THCA,Tuscan Holdings Corp II,MISC,Finance-Blank Check,76,NASDAQ,10.24,0.1,0.01,5,-81.7,12,65,B,-,C,47
+THCP,Thunder BrdgCpPtnrsIVClA,MISC,Finance-Blank Check,76,NASDAQ,9.73,0,0,0,0,8,20,B,-,E,18
+TINV,Tiga Acquisition Cp Cl A,MISC,Finance-Blank Check,76,NYSE,10.18,0,0.01,20,-75,39,60,B,-,B,60
+TIOA,Tio Tech A Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,-0.6,-0.06,2,-91.6,8,69,B,-,D+,44
+TLGA,TLG Acquisition One Cl A,MISC,Finance-Blank Check,76,NYSE,9.74,0,0,0,-99.7,8,65,B,-,B,53
+TLGY,Tlgy Acquisition Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.96,0,0,0,0,1,1,B,-,-,24
+TMAC,Music Acquisition Cl A,MISC,Finance-Blank Check,76,NYSE,9.78,0,0,0,0,8,65,B,-,B-,50
+TMKR,Tastemaker Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.83,-0.1,-0.01,25,-31.8,39,65,B,-,C-,59
+TMPM,Turmeric AcquisitionCl A,MISC,Finance-Blank Check,76,NASDAQ,9.82,0,0,0,0,39,65,B,-,B-,60
+TOAC,Talon 1 Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.01,0,0,0,0,8,69,B,-,-,48
+TPBA,TPB Acquisition I Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.66,0,0,0,0,8,60,B,-,E,28
+TPGY,TPG Pace Beneficial Fin,MISC,Finance-Blank Check,76,NYSE,9.85,0.4,0.04,157,-80,69,18,B,-,D,35
+TRAQ,Trine II Acquisition ClA,MISC,Finance-Blank Check,76,NYSE,9.87,0,0,0,0,8,65,B,-,-,45
+TRCA,Twin Ridge Cap Acq ClA,MISC,Finance-Blank Check,76,NYSE,9.71,0,0,165,823.7,8,60,B,-,C+,43
+TRIS,Tristar Acq I Cp Cl A,MISC,Finance-Blank Check,76,NYSE,9.78,0.3,0.03,27,-66.5,8,60,B,-,-,43
+TRON,Corner Growth Acq 2 Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.9,-0.2,-0.02,2,-81,8,69,B,-,B,49
+TRTL,Tortoiseecofin AcqIIIClA,MISC,Finance-Blank Check,76,NYSE,9.61,-0.5,-0.05,1,-96.7,8,65,B,-,D+,41
+TSIB,Tishman Spyr Inn II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,0,0,0,0,8,60,B,-,C-,41
+TSPQ,TCW Special Prps Acq ClA,MISC,Finance-Blank Check,76,NYSE,9.71,-0.1,-0.01,2,-97.7,8,65,B,-,C+,49
+TUGC,Tradeup Global Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.85,0,0,0,0,8,69,B,-,B,52
+TVAC,Thayer Ventures Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.17,0,-0.01,597,509,39,69,B,-,C-,60
+TWCB,Bilander Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0.1,0.01,0,-99.6,8,65,B,-,A-,55
+TWLV,Twelve Seas Invt II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.68,0.1,0.01,2,-94.1,39,60,B,-,D,56
+TWND,Tailwind Acq Corp Cl A,MISC,Finance-Blank Check,76,NYSE,9.84,0,0,0,-99.2,33,55,B,-,C,51
+TWNI,Tailwind Intl Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.74,0,0,2,-94.5,8,65,B,-,B,53
+TWNT,Tailwind Two Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.93,-0.1,-0.01,4,-95.8,8,69,B,-,C,49
+TWOA,Two Cl A,MISC,Finance-Blank Check,76,NYSE,9.7,0.1,0.01,17,-22.1,8,60,B,-,B-,44
+TZPS,TZP Strategies Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.76,0,0,0,0,39,65,B,-,A-,68
+UPTD,Tradeup Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,9.94,0,0,0,0,8,69,B,-,C-,44
+USCT,Tkb Critical Tech 1 Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.9,0,0,0,-99.2,8,69,B,-,-,48
+UTAA,Uta Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.9,0.4,0.04,0,-99.6,8,1,B,-,-,27
+VAQC,Vector Acq Corp II Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.73,-0.1,-0.01,73,105.9,8,60,B,-,B,47
+VCKA,Vickers Vantage Corp I,MISC,Finance-Blank Check,76,NASDAQ,10.12,0.2,0.02,25,-25.4,4,69,B,-,B,51
+VCXA,10X Capital Vent Acq II,MISC,Finance-Blank Check,76,NASDAQ,9.8,-0.5,-0.05,2,-92.3,8,69,B,-,C,44
+VELO,Velocity Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.71,-0.1,-0.01,6,-87.1,39,55,B,-,C+,57
+VENA,Venus Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,10.1,0,0,17,-8.7,2,72,B,-,C-,45
+VGII,Virgin Group Acq II Cl A,MISC,Finance-Blank Check,76,NYSE,9.87,-0.2,-0.02,1,-99.4,8,69,B,-,C,44
+VHAQ,Viveon Health Acq,MISC,Finance-Blank Check,76,AMEX,10.05,0.1,0.01,64,-52.8,8,65,B,-,B-,49
+VHNA,Vahanna Tech EdgeAcqIClA,MISC,Finance-Blank Check,76,NASDAQ,9.95,0,0,0,0,8,69,B,-,-,48
+VII,7GC & Co Holdings Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.76,0,0,0,0,33,60,B,-,B+,61
+VLAT,Valor Latitude Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.65,0,0,0,0,8,60,B,-,C+,43
+VMAC,Vistas Media Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,8.88,-9.8,-0.96,15,-56.5,7,55,B,-,C-,35
+VMGA,VMG Consumer Acq Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.88,0,0,3,-84.9,8,69,B,-,-,49
+VPCB,VPC Impact Acq II ClA,MISC,Finance-Blank Check,76,NASDAQ,9.82,0,0,18,-41,8,60,B,-,D,40
+VSAC,Vision Sensing Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.93,0,0,0,0,8,69,B,-,-,48
+VTAQ,Ventoux CCM Acquisition,MISC,Finance-Blank Check,76,NASDAQ,10.05,0,0,41,-49,69,65,B,-,B+,74
+VTIQ,VectoIQ Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,-0.3,-0.03,2,-82.1,47,60,B,-,B,64
+VYGG,Vy Global Growth Cl A,MISC,Finance-Blank Check,76,NYSE,9.85,0.2,0.02,119,-13.4,39,48,B,-,D-,44
+WALD,Waldencast Acq Corp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.85,0,0,0,0,8,69,B,-,C,46
+WARR,Warrior Techno Acq Cl A,MISC,Finance-Blank Check,76,NYSE,9.81,0,0,14,-57.5,39,65,B,-,B+,66
+WAVC,Waverley Cap Acq 1 Cl A,MISC,Finance-Blank Check,76,NYSE,9.63,0,0,0,0,8,60,B,-,D-,38
+WEL,Integrated WellnesAcqClA,MISC,Finance-Blank Check,76,NYSE,9.87,-1.6,-0.17,171,79.1,8,75,B,-,-,50
+WINV,Winvest Acquisition Corp,MISC,Finance-Blank Check,76,NASDAQ,9.84,-0.3,-0.03,1,-95.7,8,69,B,-,B-,50
+WPCA,Warburg Pincus I A Cl A,MISC,Finance-Blank Check,76,NYSE,9.74,0,0,77,6,8,55,B,-,C-,41
+WPCB,Warburg Pincus I B Cl A,MISC,Finance-Blank Check,76,NYSE,9.74,0.1,0.01,51,-67.9,8,60,B,-,A-,55
+WQGA,World Quantum Gw Acq ClA,MISC,Finance-Blank Check,76,NYSE,9.83,-0.3,-0.03,2,-89.7,8,69,B,-,B,53
+WRAC,Williams Rowland Acq Cp,MISC,Finance-Blank Check,76,NYSE,9.91,0.2,0.02,0,-99.7,8,65,B,-,C,44
+WTMA,Welsbach Techno Mtls Acq,MISC,Finance-Blank Check,76,NASDAQ,9.8,0.1,0.01,1,-87.4,1,1,B,-,-,24
+WWAC,Worldwide Webb Acq Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.75,0,0,28,26.4,1,65,B,-,-,42
+XFIN,Excelfin Acq Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.84,0,0,0,-98.4,8,75,B,-,-,50
+XPAX,Xpac Acquisition Cp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.61,0.1,0.01,227,1769.3,8,60,B,-,E,34
+XPDB,Power & Digi InfrAqIIClA,MISC,Finance-Blank Check,76,NASDAQ,9.89,0,0,30,16430,1,1,B,-,-,0
+XPOA,Dpcm Capital Inc Cl A,MISC,Finance-Blank Check,76,NYSE,9.81,0,0,2,-95.9,33,55,B,-,B-,53
+YTPG,TPG Pace Benefcal II ClA,MISC,Finance-Blank Check,76,NYSE,9.79,0,0,0,0,8,55,B,-,C-,38
+ZING,Ftac Zeus Acq Crp Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.77,-0.1,-0.01,0,-99.9,8,65,B,-,-,45
+ZNTE,Zanite Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,10.2,0,0.01,37,-81.9,39,52,B,-,C,45
+ZT,Zimmer Energy Tr Acq ClA,MISC,Finance-Blank Check,76,NASDAQ,9.72,0,0,1,-97.8,8,69,B,-,B,52
+ZWRK,Z-Work Acquisition Cl A,MISC,Finance-Blank Check,76,NASDAQ,9.74,0,0,0,0,8,65,B,-,B,52
